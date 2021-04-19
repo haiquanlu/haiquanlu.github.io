@@ -45,6 +45,9 @@ Work
    + Organization: Institute of Medical Robotics, SJTU. Shanghai Tong Ren Hospital.
    + My job: data augmentation by adversarial attack.
    + Achievements: a paper (ISBI) and a patent.
++ Lab Project & Internship: Robust Machine Learning and its Application in Object Detection and Face Recognition
+   + Organization: The Central Media Technology Institute of the Laboratory, Huawei.
+   + My job: attack detectors for robustness testing.
 + Competition: Transferable Adversarial Attack in Object Detection
    + Organization: Alibaba, 4th competition of CIKM 2020.
    + My job: leader of team "谁都判不队", architecture design.
@@ -67,6 +70,7 @@ Award
 
 Service
 ------
++ **Reviewer** of IEEE Transactions on Pattern Analysis and Machine Intelligence.
 + **Reviewer** of Pattern Recognition.
 + **Reviewer** of IEEE ISBI 2021.
 + Volunteer of Traffic·Future Scientific Competition, 2020. [[Web](https://jtwl.sjtu.edu.cn)]
