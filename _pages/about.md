@@ -53,10 +53,6 @@ Work
    + Organization: Alibaba, 4th competition of CIKM 2020.
    + My job: leader of team "谁都判不队", architecture design.
    + Achievements: Top 1.5% Ranking. [[Link](https://tianchi.aliyun.com/competition/entrance/531806/rankingList)]
-+ Course Project: Real-World Tetris Agent with Robot Arms
-   + Course: Digital Image Processing.
-   + My job: core algorithm, logic, and presentation.
-   + Achievements: highest record since the course starts. [[Demo](https://v.qq.com/x/page/a0889zszx7j.html)]
 + Student Work: Piano Association of SJTU
    + President of Piano Association of SJTU, 2017 - 2018.
    + My job: Chief Director of 3 concerts, each with 1K+ live viewers.
