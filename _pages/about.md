@@ -11,7 +11,7 @@ redirect_from:
   
 Biography
 ------
-I'm a M.S. student at the Institute of Image Processing and Pattern Recognition, Department of Automation, Shanghai Jiao Tong University (SJTU), China. I received my B.S. degree in Department of Automation, SJTU in 2020. My research interests are adversarial machine learning, model security, and interpretability of DNN.
+I'm an M.S. student at the Institute of Image Processing and Pattern Recognition, Department of Automation, Shanghai Jiao Tong University (SJTU), China. I received my B.S. degree in the Department of Automation, SJTU in 2020. My research interests are adversarial machine learning, model security, and interpretability of DNN.
 
 Education
 ------
@@ -30,7 +30,8 @@ Research
 + **Sizhe Chen**, Qinghua Tao, Zhixing Ye, Xiaolin Huang\*\*. Going Far Boosts Attack Transferability, but Do Not Do It. Submitted to International Conference on Uncertainty in Artificial Intelligence (UAI), 2021. [[PDF](https://arxiv.org/abs/2102.10343)]
 + **Sizhe Chen**, Fan He, Xiaolin Huang\*\*, Kun Zhang. Relevance Attack on Detectors. Submitted to Pattern Recognition (PR), 2021. [[PDF](https://arxiv.org/abs/2008.06822)]
 + Chengjin Sun, **Sizhe Chen**, Jia Cai, Xiaolin Huang\*\*. Type I attack for generative models. International Conference on Image Processing (ICIP), 2020. [[PDF](https://arxiv.org/abs/2003.01872)]
-+ Fan He, **Sizhe Chen**, Shuaiyi Li, Lu Zhou, Haiqin Zhang, Haixia Peng, Xiaolin Huang\*\*. Colonoscopi Image Synthesis for Polyp Detector Enhancement Via GAN and Adversarial Attack. International Symposium on Biomedical Imaging (ISBI), 2021. 
++ Fan He, **Sizhe Chen**, Shuaiyi Li, Lu Zhou, Haiqin Zhang, Haixia Peng, Xiaolin Huang\*\*. Colonoscopic Image Synthesis for Polyp Detector Enhancement via GAN and Adversarial Training. International Symposium on Biomedical Imaging (ISBI), 2021. 
++ Zhixing Ye, Shaofei Qin, **Sizhe Chen**, Xiaolin Huang\*\*. Dominant Pattern: A Critical Feature of Deep Neural Networks. Submitted to Annual Conference on Neural Information Processing Systems (NeurIPS), 2021.
 
 \* indicates equal contribution. \*\* indicates the corresponding author. 
 
@@ -43,7 +44,7 @@ Work
    + Technical verification and design in popular science propaganda of AI security.
 + Lab Project: Endoscopic Processing and Urinary Robotics
    + Organization: Institute of Medical Robotics, SJTU. Shanghai Tong Ren Hospital.
-   + My job: data augmentation by adversarial attack.
+   + My job: data augmentation by adversarial attacks.
    + Achievements: a paper (ISBI) and a patent.
 + Lab Project & Internship: Robust Machine Learning and its Application in Object Detection and Face Recognition
    + Organization: The Central Media Technology Institute of the Laboratory, Huawei.
@@ -54,7 +55,7 @@ Work
    + Achievements: Top 1.5% Ranking. [[Link](https://tianchi.aliyun.com/competition/entrance/531806/rankingList)]
 + Course Project: Real-World Tetris Agent with Robot Arms
    + Course: Digital Image Processing.
-   + My job: core algorithm, logic and presentation.
+   + My job: core algorithm, logic, and presentation.
    + Achievements: highest record since the course starts. [[Demo](https://v.qq.com/x/page/a0889zszx7j.html)]
 + Student Work: Piano Association of SJTU
    + President of Piano Association of SJTU, 2017 - 2018.
@@ -70,9 +71,6 @@ Award
 
 Service
 ------
-+ **Reviewer** of IEEE Transactions on Pattern Analysis and Machine Intelligence.
-+ **Reviewer** of Pattern Recognition.
-+ **Reviewer** of IEEE ISBI 2021.
-+ Volunteer of Traffic·Future Scientific Competition, 2020. [[Web](https://jtwl.sjtu.edu.cn)]
-+ Volunteer of Shanghai International Half Marathon, 2018.
-+ 6 blood donation.
++ Reviewer: IEEE Transactions on Pattern Analysis and Machine Intelligence, Pattern Recognition, IEEE ISBI 2021.
++ Volunteer: Traffic·Future Scientific Competition [[Web](https://jtwl.sjtu.edu.cn)], Shanghai International Half Marathon.
++ Blood Donator: 1400cc.
