@@ -16,7 +16,7 @@ I'm an M.S. student at the Institute of Image Processing and Pattern Recognition
 Education
 ------
 + M.S. Student in Department of Automation, SJTU, Sept. 2020 - Present.
-   + Supervisor: [Xiaolin Huang](http://www.automation.sjtu.edu.cn/ShowPeople.aspx?info_id=2418&info_lb=590&flag=98)
+   + Supervisor: [Xiaolin Huang](http://www.pami.sjtu.edu.cn/en/xiaolin)
 + B.S. Degree in Department of Automation, SJTU, Sept. 2016 - Jun. 2020.
    + Rank: 5/95, 88.56 on average for 135 core credits. [[Material](https://github.com/AllenChen1998/SJTU-Automation-Materials)]
    + Machine Learning (Top 1), Artificial Intelligence (Top 1), Advanced Mathematics (1.2%).
