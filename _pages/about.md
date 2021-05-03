@@ -21,17 +21,17 @@ Education
    + Rank: 5/95, 88.56 on average for 135 core credits. [[Material](https://github.com/AllenChen1998/SJTU-Automation-Materials)]
    + Machine Learning (Top 1), Artificial Intelligence (Top 1), Advanced Mathematics (1.2%).
    + Thesis: Semantic-Based Adversarial Attack and Its Transferability.
-   + Extraordinary Bachelor's Thesis: Top 1% (39/4000+). [[News](http://www.automation.sjtu.edu.cn/show.aspx?info_lb=610&flag=101&info_id=2890)], [[Defense](https://v.qq.com/x/page/p31356mbu5g.html)]
+   + Extraordinary Bachelor's Thesis: Top 1% (39/4000+). [[News](https://automation.sjtu.edu.cn/show/1091)], [[Defense](https://v.qq.com/x/page/p31356mbu5g.html)]
 
 Research
 ------
 + **Sizhe Chen**, Zhengbao He, Chengjin Sun, Jie Yang, Xiaolin Huang\*\*. Universal Adversarial Attack on Attention and the Resulting Dataset DamageNet. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2020. [[News](https://news.sjtu.edu.cn/jdzh/20201102/133855.html)], [[PDF](https://ieeexplore.ieee.org/document/9238430)]
-+ **Sizhe Chen**, Qinghua Tao, Zhehao Huang, Xiaolin Huang\*\*. Exploiting Every Query for Efficient Attack. Submitted to Annual Conference on Neural Information Processing Systems (NeurIPS), 2021.
++ **Sizhe Chen**, Qinghua Tao, Zhehao Huang, Xiaolin Huang\*\*. Inner Query via Multiple Identities: Rethinking Surrogates for Efficient Attacks. Submitted to Annual Conference on Neural Information Processing Systems (NeurIPS), 2021.
 + **Sizhe Chen**, Qinghua Tao, Zhixing Ye, Xiaolin Huang\*\*. Going Far Boosts Attack Transferability, but Do Not Do It. Submitted to International Conference on Uncertainty in Artificial Intelligence (UAI), 2021. [[PDF](https://arxiv.org/abs/2102.10343)]
 + **Sizhe Chen**, Fan He, Xiaolin Huang\*\*, Kun Zhang. Relevance Attack on Detectors. Submitted to Pattern Recognition (PR), 2021. [[PDF](https://arxiv.org/abs/2008.06822)]
 + Chengjin Sun, **Sizhe Chen**, Jia Cai, Xiaolin Huang\*\*. Type I attack for generative models. International Conference on Image Processing (ICIP), 2020. [[PDF](https://arxiv.org/abs/2003.01872)]
-+ Fan He, **Sizhe Chen**, Shuaiyi Li, Lu Zhou, Haiqin Zhang, Haixia Peng, Xiaolin Huang\*\*. Colonoscopic Image Synthesis for Polyp Detector Enhancement via GAN and Adversarial Training. International Symposium on Biomedical Imaging (ISBI), 2021. 
-+ Zhixing Ye, Shaofei Qin, **Sizhe Chen**, Xiaolin Huang\*\*. Dominant Pattern: A Critical Feature of Deep Neural Networks. Submitted to Annual Conference on Neural Information Processing Systems (NeurIPS), 2021.
++ Fan He, **Sizhe Chen**, Shuaiyi Li, Lu Zhou, Haiqin Zhang, Haixia Peng, Xiaolin Huang\*\*. Colonoscopic Image Synthesis for Polyp Detector Enhancement via GAN and Adversarial Training. International Symposium on Biomedical Imaging (ISBI), 2021. [[PDF](https://virtual.biomedicalimaging.org/isbi/2021/isbi-2021/315178/xiaolin.huang.colonoscopic.image.synthesis.for.polyp.detector.enhancement.via.html?f=listing%3D0%2Abrowseby%3D8%2Asortby%3D2%2Aspeaker%3D845269%2Alabel%3D20898)]
++ Zhixing Ye, Shaofei Qin, **Sizhe Chen**, Xiaolin Huang\*\*. Dominant Pattern: A Critical Feature Hidden in Deep Neural Networks. Submitted to Annual Conference on Neural Information Processing Systems (NeurIPS), 2021.
 
 \* indicates equal contribution. \*\* indicates the corresponding author. 
 
@@ -60,7 +60,7 @@ Work
 
 Award
 ------
-+ Outstanding Graduate in Shanghai Jiao Tong University, 2020. [[News](http://www.automation.sjtu.edu.cn/show.aspx?info_lb=610&flag=101&info_id=2875)]
++ Outstanding Graduate in Shanghai Jiao Tong University, 2020. [[News](https://automation.sjtu.edu.cn/show/1081)]
 + Grand Prize of Automation System Application Contest, 2019. [[News](https://news.sjtu.edu.cn/zhxw/20190807/108459.html)]
 + Kwang-Hua Scholarship, 2019.
 + Golden Dragon Fish Scholarship, 2017.
