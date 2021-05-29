@@ -31,7 +31,7 @@ Research
 + **Sizhe Chen**, Fan He, Xiaolin Huang\*\*, Kun Zhang. Relevance Attack on Detectors. Submitted to Pattern Recognition (PR), 2021. [[PDF](https://arxiv.org/abs/2008.06822)]
 + Chengjin Sun, **Sizhe Chen**, Jia Cai, Xiaolin Huang\*\*. Type I attack for generative models. International Conference on Image Processing (ICIP), 2020. [[PDF](https://arxiv.org/abs/2003.01872)]
 + Fan He, **Sizhe Chen**, Shuaiyi Li, Lu Zhou, Haiqin Zhang, Haixia Peng, Xiaolin Huang\*\*. Colonoscopic Image Synthesis for Polyp Detector Enhancement via GAN and Adversarial Training. International Symposium on Biomedical Imaging (ISBI), 2021. [[PDF](https://virtual.biomedicalimaging.org/isbi/2021/isbi-2021/315178/xiaolin.huang.colonoscopic.image.synthesis.for.polyp.detector.enhancement.via.html?f=listing%3D0%2Abrowseby%3D8%2Asortby%3D2%2Aspeaker%3D845269%2Alabel%3D20898)]
-+ Zhixing Ye, Shaofei Qin, **Sizhe Chen**, Xiaolin Huang\*\*. Dominant Pattern: A Critical Feature Hidden in Deep Neural Networks. Submitted to Annual Conference on Neural Information Processing Systems (NeurIPS), 2021.
++ Zhixing Ye, Shaofei Qin, **Sizhe Chen**, Xiaolin Huang\*\*. Dominant Patterns: Critical Features Hidden in Deep Neural Networks. Submitted to Annual Conference on Neural Information Processing Systems (NeurIPS), 2021.
 
 \* indicates equal contribution. \*\* indicates the corresponding author. 
 
