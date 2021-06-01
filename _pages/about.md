@@ -26,30 +26,34 @@ Education
 Research
 ------
 + **Sizhe Chen**, Zhengbao He, Chengjin Sun, Jie Yang, Xiaolin Huang\*\*. Universal Adversarial Attack on Attention and the Resulting Dataset DamageNet. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2020. [[News](https://news.sjtu.edu.cn/jdzh/20201102/133855.html)], [[PDF](https://ieeexplore.ieee.org/document/9238430)]
-+ **Sizhe Chen**, Qinghua Tao, Zhehao Huang, Xiaolin Huang\*\*. QueryNet: An Efficient Attack Framework with Surrogates Carrying Multiple Identities. Submitted to Annual Conference on Neural Information Processing Systems (NeurIPS), 2021.
++ **Sizhe Chen**, Qinghua Tao, Zhehao Huang, Xiaolin Huang\*\*. QueryNet: An Efficient Attack Framework with Surrogates Carrying Multiple Identities. Submitted to Annual Conference on Neural Information Processing Systems (NeurIPS), 2021. [[PDF](https://arxiv.org/abs/2105.15010)]
 + **Sizhe Chen**, Qinghua Tao, Zhixing Ye, Xiaolin Huang\*\*. Going Far Boosts Attack Transferability, but Do Not Do It. Submitted to International Conference on Uncertainty in Artificial Intelligence (UAI), 2021. [[PDF](https://arxiv.org/abs/2102.10343)]
 + **Sizhe Chen**, Fan He, Xiaolin Huang\*\*, Kun Zhang. Relevance Attack on Detectors. Submitted to Pattern Recognition (PR), 2021. [[PDF](https://arxiv.org/abs/2008.06822)]
 + Chengjin Sun, **Sizhe Chen**, Jia Cai, Xiaolin Huang\*\*. Type I attack for generative models. International Conference on Image Processing (ICIP), 2020. [[PDF](https://arxiv.org/abs/2003.01872)]
 + Fan He, **Sizhe Chen**, Shuaiyi Li, Lu Zhou, Haiqin Zhang, Haixia Peng, Xiaolin Huang\*\*. Colonoscopic Image Synthesis for Polyp Detector Enhancement via GAN and Adversarial Training. International Symposium on Biomedical Imaging (ISBI), 2021. [[PDF](https://virtual.biomedicalimaging.org/isbi/2021/isbi-2021/315178/xiaolin.huang.colonoscopic.image.synthesis.for.polyp.detector.enhancement.via.html?f=listing%3D0%2Abrowseby%3D8%2Asortby%3D2%2Aspeaker%3D845269%2Alabel%3D20898)]
-+ Zhixing Ye, Shaofei Qin, **Sizhe Chen**, Xiaolin Huang\*\*. Dominant Patterns: Critical Features Hidden in Deep Neural Networks. Submitted to Annual Conference on Neural Information Processing Systems (NeurIPS), 2021.
++ Zhixing Ye, Shaofei Qin, **Sizhe Chen**, Xiaolin Huang\*\*. Dominant Patterns: Critical Features Hidden in Deep Neural Networks. Submitted to Annual Conference on Neural Information Processing Systems (NeurIPS), 2021. [[PDF](https://arxiv.org/abs/2105.15057)]
 
 \* indicates equal contribution. \*\* indicates the corresponding author. 
 
 Work
 ------
-+ Internship: Tencent Zhuque Lab, Jul. 2020 - Sept. 2020.
++ Internship: Tencent Zhuque Lab.
+   + Duration: Jul. 2020 - Sept. 2020.
    + Technical report: AI security threat matrix. 50% of the writing. [[News](https://ai.tencent.com/ailab/zh/news/detial/?id=68)] [[PDF](https://ai.tencent.com/ailab/media/AI%E5%AE%89%E5%85%A8%E7%9A%84%E5%A8%81%E8%83%81%E9%A3%8E%E9%99%A9%E7%9F%A9%E9%98%B5.pdf)]
    + Patent: 模型处理方法、装置、设备及存储介质 (First Inventor)
    + Patent: 图像分类方法、装置、电子设备及存储介质 (First Inventor)
    + Technical verification and design in popular science propaganda of AI security.
 + Lab Project: Endoscopic Processing and Urinary Robotics
+   + Duration: Apr. 2020 - Oct. 2020.
    + Organization: Institute of Medical Robotics, SJTU. Shanghai Tong Ren Hospital.
    + My job: data augmentation by adversarial attacks.
    + Achievements: a paper (ISBI) and a patent.
 + Lab Project & Internship: Robust Machine Learning and its Application in Object Detection and Face Recognition
+   + Duration: Apr. 2021 - Oct. 2021.
    + Organization: The Central Media Technology Institute of the Laboratory, Huawei.
-   + My job: attack detectors for robustness testing.
-+ Competition: Transferable Adversarial Attack in Object Detection
+   + My job: reduce false detection by augmentation and attack.
+   + Achievements: double the mAP on the original false detection (samples).
++ Competition: Transferable Adversarial Attack in Object Detection.
    + Organization: Alibaba, 4th competition of CIKM 2020.
    + My job: leader of team "谁都判不队", architecture design.
    + Achievements: Top 1.5% Ranking. [[Link](https://tianchi.aliyun.com/competition/entrance/531806/rankingList)]
