@@ -25,15 +25,13 @@ Education
 
 Research
 ------
-+ **Sizhe Chen**, Zhengbao He, Chengjin Sun, Jie Yang, Xiaolin Huang\*\*. Universal Adversarial Attack on Attention and the Resulting Dataset DamageNet. *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*, 2020. [[News](https://news.sjtu.edu.cn/jdzh/20201102/133855.html)], [[PDF](https://ieeexplore.ieee.org/document/9238430)]
-+ **Sizhe Chen**, Qinghua Tao, Zhehao Huang, Xiaolin Huang\*\*. QueryNet: An Efficient Attack Framework with Surrogates Carrying Multiple Identities. Submitted to *Annual Conference on Neural Information Processing Systems (NeurIPS)*, 2021. [[PDF](https://arxiv.org/abs/2105.15010)]
-+ **Sizhe Chen**, Qinghua Tao, Zhixing Ye, Xiaolin Huang\*\*. Going Far Boosts Attack Transferability, but Do Not Do It. Submitted to *Neural Computation*, 2021. [[PDF](https://arxiv.org/abs/2102.10343)]
-+ **Sizhe Chen**, Fan He, Xiaolin Huang\*\*, Kun Zhang. Relevance Attack on Detectors. Submitted to *Pattern Recognition*, 2021. [[PDF](https://arxiv.org/abs/2008.06822)]
-+ Chengjin Sun, **Sizhe Chen**, Jia Cai, Xiaolin Huang\*\*. Type I attack for generative models. *International Conference on Image Processing (ICIP)*, 2020. [[PDF](https://arxiv.org/abs/2003.01872)]
-+ Fan He, **Sizhe Chen**, Shuaiyi Li, Lu Zhou, Haiqin Zhang, Haixia Peng, Xiaolin Huang\*\*. Colonoscopic Image Synthesis for Polyp Detector Enhancement via GAN and Adversarial Training. *International Symposium on Biomedical Imaging (ISBI)*, 2021. [[PDF](https://virtual.biomedicalimaging.org/isbi/2021/isbi-2021/315178/xiaolin.huang.colonoscopic.image.synthesis.for.polyp.detector.enhancement.via.html?f=listing%3D0%2Abrowseby%3D8%2Asortby%3D2%2Aspeaker%3D845269%2Alabel%3D20898)]
-+ Zhixing Ye, Shaofei Qin, **Sizhe Chen**, Xiaolin Huang\*\*. Dominant Patterns: Critical Features Hidden in Deep Neural Networks. Submitted to *Annual Conference on Neural Information Processing Systems (NeurIPS)*, 2021. [[PDF](https://arxiv.org/abs/2105.15057)]
-
-\* indicates equal contribution. \*\* indicates the corresponding author. 
++ **Sizhe Chen**, Zhengbao He, Chengjin Sun, Jie Yang, Xiaolin Huang\*. Universal Adversarial Attack on Attention and the Resulting Dataset DamageNet. *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*, 2020. [[News](https://news.sjtu.edu.cn/jdzh/20201102/133855.html)], [[PDF](https://ieeexplore.ieee.org/document/9238430)]
++ **Sizhe Chen**, Qinghua Tao, Zhehao Huang, Xiaolin Huang\*. QueryNet: An Efficient Attack Framework with Surrogates Carrying Multiple Identities. Submitted to *Annual Conference on Neural Information Processing Systems (NeurIPS)*, 2021. [[PDF](https://arxiv.org/abs/2105.15010)]
++ **Sizhe Chen**, Qinghua Tao, Zhixing Ye, Xiaolin Huang\*. Going Far Boosts Attack Transferability, but Do Not Do It. Submitted to *Neural Computation*, 2021. [[PDF](https://arxiv.org/abs/2102.10343)]
++ **Sizhe Chen**, Fan He, Xiaolin Huang\*, Kun Zhang. Relevance Attack on Detectors. Submitted to *Pattern Recognition*, 2021. [[PDF](https://arxiv.org/abs/2008.06822)]
++ Chengjin Sun, **Sizhe Chen**, Jia Cai, Xiaolin Huang\*. Type I attack for generative models. *International Conference on Image Processing (ICIP)*, 2020. [[PDF](https://arxiv.org/abs/2003.01872)]
++ Fan He, **Sizhe Chen**, Shuaiyi Li, Lu Zhou, Haiqin Zhang, Haixia Peng, Xiaolin Huang\*. Colonoscopic Image Synthesis for Polyp Detector Enhancement via GAN and Adversarial Training. *International Symposium on Biomedical Imaging (ISBI)*, 2021. [[PDF](https://virtual.biomedicalimaging.org/isbi/2021/isbi-2021/315178/xiaolin.huang.colonoscopic.image.synthesis.for.polyp.detector.enhancement.via.html?f=listing%3D0%2Abrowseby%3D8%2Asortby%3D2%2Aspeaker%3D845269%2Alabel%3D20898)]
++ Zhixing Ye, Shaofei Qin, **Sizhe Chen**, Xiaolin Huang\*. Dominant Patterns: Critical Features Hidden in Deep Neural Networks. Submitted to *Annual Conference on Neural Information Processing Systems (NeurIPS)*, 2021. [[PDF](https://arxiv.org/abs/2105.15057)]
 
 Work
 ------
@@ -63,10 +61,10 @@ Work
 
 Award
 ------
-+ Outstanding Graduate in Shanghai Jiao Tong University, 2020. [[News](https://automation.sjtu.edu.cn/show/1081)]
-+ Grand Prize of Automation System Application Contest, 2019. [[News](https://news.sjtu.edu.cn/zhxw/20190807/108459.html)]
-+ Kwang-Hua Scholarship, 2019.
-+ Golden Dragon Fish Scholarship, 2017.
++ Outstanding Graduate in Shanghai Jiao Tong University (Top 10%), 2020. [[News](https://automation.sjtu.edu.cn/show/1081)]
++ Grand Prize of Automation System Application Contest (Top 10%), 2019. [[News](https://news.sjtu.edu.cn/zhxw/20190807/108459.html)]
++ Kwang-Hua Scholarship (Top 5%), 2019.
++ Golden Dragon Fish Scholarship (Top 5%), 2017.
 
 Service
 ------
