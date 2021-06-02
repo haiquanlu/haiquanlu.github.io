@@ -18,7 +18,7 @@ Education
 + M.S. Student in Department of Automation, SJTU, Sept. 2020 - Present.
    + Supervisor: [Xiaolin Huang](http://www.pami.sjtu.edu.cn/en/xiaolin)
 + B.S. Degree in Department of Automation, SJTU, Sept. 2016 - Jun. 2020.
-   + Rank: 5/95, 88.56 on average for 135 core credits. [[Material](https://github.com/AllenChen1998/SJTU-Automation-Materials)]
+   + Rank: 5/95, 88.56 on average for 135 core credits. [[Shared Resources](https://github.com/AllenChen1998/SJTU-Automation-Materials)]
    + Machine Learning (Top 1), Artificial Intelligence (Top 1), Advanced Mathematics (1.2%).
    + Thesis: Semantic-Based Adversarial Attack and Its Transferability.
    + Extraordinary Bachelor's Thesis: **Top 1% (39/4000+)**. [[News](https://automation.sjtu.edu.cn/show/1091)], [[Defense](https://v.qq.com/x/page/p31356mbu5g.html)]
@@ -68,5 +68,5 @@ Award
 Service
 ------
 + **Reviewer**: *IEEE TPAMI*, *Pattern Recognition*, *IEEE ISBI*.
-+ Volunteer: Traffic·Future Scientific Competition [[Web](https://jtwl.sjtu.edu.cn)], Shanghai International Half Marathon.
-+ Blood Donator: 1400cc.
++ **Volunteer**: [Traffic·Future](https://jtwl.sjtu.edu.cn) Scientific Competition, Shanghai International Half Marathon.
++ **Blood Donator**: 1400cc.
