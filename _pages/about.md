@@ -36,10 +36,9 @@ Research
 Work
 ------
 + **Internship**: Tencent Zhuque Lab, Jul. 2020 - Sept. 2020.
-   + Technical report: AI security threat matrix. 50% of the writing. [[News](https://ai.tencent.com/ailab/zh/news/detial/?id=68)] [[PDF](https://ai.tencent.com/ailab/media/AI%E5%AE%89%E5%85%A8%E7%9A%84%E5%A8%81%E8%83%81%E9%A3%8E%E9%99%A9%E7%9F%A9%E9%98%B5.pdf)]
+   + Technical report: AI security threat matrix (50% of the writing). [[News](https://ai.tencent.com/ailab/zh/news/detial/?id=68)] [[PDF](https://ai.tencent.com/ailab/media/AI%E5%AE%89%E5%85%A8%E7%9A%84%E5%A8%81%E8%83%81%E9%A3%8E%E9%99%A9%E7%9F%A9%E9%98%B5.pdf)]
    + Patent: Poisoning Attack by Perturbing Few Parameters (First Inventor).
    + Patent: Efficient Model Stealing by Transferable Attacks (First Inventor).
-   + Technical verification and design in popular science propaganda of AI security.
 + **Lab Project**: Endoscopic Processing and Urinary Robotics, Apr. 2020 - Oct. 2020.
    + Organization: Institute of Medical Robotics, SJTU. Shanghai Tong Ren Hospital.
    + My job: data augmentation by adversarial attacks.
@@ -47,7 +46,7 @@ Work
 + **Lab Project & Internship**: Robust Machine Learning in Object Detection, Apr. 2021 - Oct. 2021.
    + Organization: The Central Media Technology Institute of the Laboratory, Huawei.
    + My job: reduce false detection by augmentation and attack.
-   + Achievements: double the mAP on the original false detection (samples).
+   + Achievements: double the mAP on the original false detections.
 + **Competition**: Transferable Adversarial Attack in Object Detection, Jul. 2020 - Sept. 2020.
    + Organization: Alibaba, 4th competition of CIKM 2020.
    + My job: lead our team to achieve the [top 1.5%](https://tianchi.aliyun.com/competition/entrance/531806/rankingList) ranking, architecture design.
