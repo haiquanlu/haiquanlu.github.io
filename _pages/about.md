@@ -48,7 +48,7 @@ Work
    + My job: reduce false detection by augmentation and attack.
    + Achievements: double the mAP on the original false detections.
 + **Competition**: Transferable Adversarial Attack in Object Detection, Jul. 2020 - Sept. 2020.
-   + Organization: Alibaba, 4th competition of CIKM 2020.
+   + Organization: Alibaba, 4th competition of CIKM 2020. 
    + My job: lead our team to achieve the [top 1.5%](https://tianchi.aliyun.com/competition/entrance/531806/rankingList) ranking, architecture design.
 + **Student Work**: President, Piano Association of SJTU, 2017 - 2018.
    + My job: Chief Director of 3 concerts, each with 1K+ live viewers.
