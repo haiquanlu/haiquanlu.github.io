@@ -11,7 +11,7 @@ redirect_from:
   
 Biography
 ------
-I'm an M.S. student at the Institute of Image Processing and Pattern Recognition, Department of Automation, Shanghai Jiao Tong University (SJTU), China. I received my B.S. degree in the Department of Automation, SJTU in 2020. My research interests are adversarial machine learning, model security, and characterictics of DNN.
+I'm an M.S. student at the Institute of Image Processing and Pattern Recognition, Department of Automation, Shanghai Jiao Tong University (SJTU), China. I received my B.S. degree in the Department of Automation, SJTU in 2020. My research interests are adversarial machine learning, model security, and characterictics of DNN. See my C.V. [here](https://www.dropbox.com/s/t9nlrurclq1ndx1/cv-sizhe-chen.pdf?dl=0).
 
 Education
 ------
