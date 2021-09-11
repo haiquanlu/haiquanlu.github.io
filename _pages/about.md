@@ -41,7 +41,7 @@ Work
 <!--    + Patent: Poisoning Attack by Perturbing Few Parameters (First Inventor).-->
 <!--    + Patent: Efficient Model Stealing by Transferable Attacks (First Inventor).-->
 + Lab Project: Endoscopic Processing and Urinary Robotics, 2020.
-    + Organization: Institute of Medical Robotics, SJTU. Shanghai Tong Ren Hospital.
+<!--    + Organization: Institute of Medical Robotics, SJTU. Shanghai Tong Ren Hospital.-->
     + My job: design a data augmentation framework for medical images.
     + Achievements: a paper (ISBI) and a patent.
 <!-- + Lab Project: Robust Machine Learning in Object Detection, 2021.-->
