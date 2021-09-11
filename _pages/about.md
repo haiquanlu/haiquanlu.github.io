@@ -40,10 +40,10 @@ Work
 <!--    + Technical report: AI security matrix (a main contributor). [[News](https://ai.tencent.com/ailab/zh/news/detial/?id=68)] [[PDF](https://ai.tencent.com/ailab/media/AI%E5%AE%89%E5%85%A8%E7%9A%84%E5%A8%81%E8%83%81%E9%A3%8E%E9%99%A9%E7%9F%A9%E9%98%B5.pdf)]-->
 <!--    + Patent: Poisoning Attack by Perturbing Few Parameters (First Inventor).-->
 <!--    + Patent: Efficient Model Stealing by Transferable Attacks (First Inventor).-->
-<!-- + Lab Project: Endoscopic Processing and Urinary Robotics, 2020.-->
-<!--    + Organization: Institute of Medical Robotics, SJTU. Shanghai Tong Ren Hospital.-->
-<!--    + My job: design a data augmentation framework for medical images.-->
-<!--    + Achievements: a paper (ISBI) and a patent.-->
++ Lab Project: Endoscopic Processing and Urinary Robotics, 2020.
+    + Organization: Institute of Medical Robotics, SJTU. Shanghai Tong Ren Hospital.
+    + My job: design a data augmentation framework for medical images.
+    + Achievements: a paper (ISBI) and a patent.
 <!-- + Lab Project: Robust Machine Learning in Object Detection, 2021.-->
 <!--    + Organization: The Central Media Technology Institute of the Laboratory, Huawei.-->
 <!--    + My job: reduce false detection by augmentation and attack.-->
