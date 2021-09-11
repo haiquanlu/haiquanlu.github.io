@@ -42,7 +42,7 @@ Work
    + Organization: Institute of Medical Robotics, SJTU. Shanghai Tong Ren Hospital.
    + My job: data augmentation by adversarial attacks.
    + Achievements: a paper (ISBI) and a patent.
-# + Lab Project: Robust Machine Learning in Object Detection, 2021.
+< + Lab Project: Robust Machine Learning in Object Detection, 2021.>
 #   + Organization: The Central Media Technology Institute of the Laboratory, Huawei.
 #   + My job: reduce false detection by augmentation and attack.
 #   + Achievements: double the mAP on the original false detections.
