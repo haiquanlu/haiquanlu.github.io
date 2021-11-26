@@ -31,7 +31,7 @@ Research
 + **Sizhe Chen**, Qinghua Tao, Zhixing Ye, Xiaolin Huang\*. Measuring L_infty Attacks by the L_2 Norm. Submitted to *Machine Learning*, 2021. [[PDF](https://arxiv.org/abs/2102.10343)]
 + Chengjin Sun, **Sizhe Chen**, Jia Cai, Xiaolin Huang\*. Type I Attack for Generative Models. *International Conference on Image Processing (ICIP)*, 2020. [[PDF](https://arxiv.org/abs/2003.01872)]
 + Fan He, **Sizhe Chen**, Shuaiyi Li, Lu Zhou, Haiqin Zhang, Haixia Peng, Xiaolin Huang\*. Colonoscopic Image Synthesis for Polyp Detector Enhancement via GAN and Adversarial Training. *International Symposium on Biomedical Imaging (ISBI)*, 2021. [[PDF](https://ieeexplore.ieee.org/abstract/document/9434050)]
-+ Tao Li, Yingwen Wu, **Sizhe Chen**, Kun Fang, Xiaolin Huang\*. Subspace Adversarial Training. Submitted to *Conference on Computer Vision and Pattern Recognition (CVPR)*, 2022.
++ Tao Li, Yingwen Wu, **Sizhe Chen**, Kun Fang, Xiaolin Huang\*. Subspace Adversarial Training. Submitted to *Conference on Computer Vision and Pattern Recognition (CVPR)*, 2022. [[PDF](https://arxiv.org/abs/2111.12229)]
 
 Work
 ------
