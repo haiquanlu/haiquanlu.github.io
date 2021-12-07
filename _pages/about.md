@@ -11,7 +11,7 @@ redirect_from:
   
 Biography
 ------
-I'm an M.S. student at the Institute of Image Processing and Pattern Recognition, Department of Automation, Shanghai Jiao Tong University (SJTU), China. I received my B.S. degree in the Department of Automation, SJTU in 2020. My research interests are robustness and characteristics of DNNs. See my CV [here](https://www.dropbox.com/s/97m0l5bhrn87yo9/cv-sizhe-chen.pdf?dl=0).
+I'm an M.S. student at the Institute of Image Processing and Pattern Recognition, Department of Automation, Shanghai Jiao Tong University (SJTU), China. I received my B.S. degree in the Department of Automation, SJTU in 2020. My research interests are robustness and sparsity of DNNs. See my CV [here](https://www.dropbox.com/s/bldsdz9l1xwdzj1/cv-sizhe-chen.pdf?dl=0).
 
 Education
 ------
@@ -26,9 +26,9 @@ Education
 Research
 ------
 + **Sizhe Chen**, Zhengbao He, Chengjin Sun, Jie Yang, Xiaolin Huang\*. Universal Adversarial Attack on Attention and the Resulting Dataset DAmageNet. *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*, 2020. [[News](https://news.sjtu.edu.cn/jdzh/20201102/133855.html)], [[PDF](https://ieeexplore.ieee.org/document/9238430)]
-+ **Sizhe Chen**, Fan He, Xiaolin Huang\*, Kun Zhang. Relevance Attack on Detectors. *Pattern Recognition*, 2021. [[PDF](https://arxiv.org/abs/2008.06822)]
-+ **Sizhe Chen**, Qinghua Tao, Zhehao Huang, Xiaolin Huang\*. QueryNet: An Efficient Attack Framework with Surrogates Carrying Multiple Identities. Submitted to *AAAI Conference on Artificial Intelligence (AAAI)*, 2022. [[PDF](https://arxiv.org/abs/2105.15010)]
-+ **Sizhe Chen**, Qinghua Tao, Zhixing Ye, Xiaolin Huang\*. Measuring L_infty Attacks by the L_2 Norm. Submitted to *Machine Learning*, 2021. [[PDF](https://arxiv.org/abs/2102.10343)]
++ **Sizhe Chen**, Fan He, Xiaolin Huang\*, Kun Zhang. Relevance Attack on Detectors. *Pattern Recognition (PR)*, 2021. [[PDF](https://arxiv.org/abs/2008.06822)]
++ **Sizhe Chen**, Qinghua Tao, Zhehao Huang, Xiaolin Huang\*. QueryNet: An Efficient Attack Framework with Surrogates Carrying Multiple Identities. Submitted to *IEEE Transactions on Image Processing (TIP)*, 2021. [[PDF](https://arxiv.org/abs/2105.15010)]
++ **Sizhe Chen**, Qinghua Tao, Zhixing Ye, Xiaolin Huang\*. Measuring L_infty Attacks by the L_2 Norm. Submitted to *Machine Learning (ML)*, 2021. [[PDF](https://arxiv.org/abs/2102.10343)]
 + Chengjin Sun, **Sizhe Chen**, Jia Cai, Xiaolin Huang\*. Type I Attack for Generative Models. *International Conference on Image Processing (ICIP)*, 2020. [[PDF](https://arxiv.org/abs/2003.01872)]
 + Fan He, **Sizhe Chen**, Shuaiyi Li, Lu Zhou, Haiqin Zhang, Haixia Peng, Xiaolin Huang\*. Colonoscopic Image Synthesis for Polyp Detector Enhancement via GAN and Adversarial Training. *International Symposium on Biomedical Imaging (ISBI)*, 2021. [[PDF](https://ieeexplore.ieee.org/abstract/document/9434050)]
 + Tao Li, Yingwen Wu, **Sizhe Chen**, Kun Fang, Xiaolin Huang\*. Subspace Adversarial Training. Submitted to *Conference on Computer Vision and Pattern Recognition (CVPR)*, 2022. [[PDF](https://arxiv.org/abs/2111.12229)]
