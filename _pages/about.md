@@ -26,7 +26,7 @@ Education
 Research
 ------
 + **Sizhe Chen**, Zhengbao He, Chengjin Sun, Jie Yang, Xiaolin Huang\*. Universal Adversarial Attack on Attention and the Resulting Dataset DAmageNet. *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*, 2020. [[News](https://news.sjtu.edu.cn/jdzh/20201102/133855.html)], [[PDF](https://ieeexplore.ieee.org/document/9238430)]
-+ **Sizhe Chen**, Fan He, Xiaolin Huang\*, Kun Zhang. Relevance Attack on Detectors. *Pattern Recognition (PR)*, 2021. [[PDF](https://arxiv.org/abs/2008.06822)]
++ **Sizhe Chen**, Fan He, Xiaolin Huang\*, Kun Zhang. Relevance Attack on Detectors. *Pattern Recognition (PR)*, 2021. [[PDF](https://www.sciencedirect.com/science/article/pii/S0031320321006671)]
 + **Sizhe Chen**, Qinghua Tao, Zhehao Huang, Xiaolin Huang\*. QueryNet: An Efficient Attack Framework with Surrogates Carrying Multiple Identities. Submitted to *IEEE Transactions on Image Processing (TIP)*, 2021. [[PDF](https://arxiv.org/abs/2105.15010)]
 + **Sizhe Chen**, Qinghua Tao, Zhixing Ye, Xiaolin Huang\*. Measuring L_infty Attacks by the L_2 Norm. Submitted to *Machine Learning (ML)*, 2021. [[PDF](https://arxiv.org/abs/2102.10343)]
 + Chengjin Sun, **Sizhe Chen**, Jia Cai, Xiaolin Huang\*. Type I Attack for Generative Models. *International Conference on Image Processing (ICIP)*, 2020. [[PDF](https://arxiv.org/abs/2003.01872)]
