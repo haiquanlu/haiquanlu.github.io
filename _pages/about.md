@@ -23,15 +23,20 @@ Education
    <!-- + [Thesis](https://sjcg.jwc.sjtu.edu.cn/375/3/3/Dissertation.html) (in English): Semantic-Based Adversarial Attack and Its Transferability.-->
    + Extraordinary Bachelor's Thesis: **Top 1% (39/4000+)**. [[Thesis](https://sjcg.jwc.sjtu.edu.cn/375/3/3/Dissertation.html)], [[News](https://automation.sjtu.edu.cn/show/1091)], [[Defense](https://v.qq.com/x/page/p31356mbu5g.html)]
 
-Research
+Publications
 ------
-+ **Sizhe Chen**, Zhengbao He, Chengjin Sun, Jie Yang, Xiaolin Huang\*. Universal Adversarial Attack on Attention and the Resulting Dataset DAmageNet. *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*, 2020. [[News](https://news.sjtu.edu.cn/jdzh/20201102/133855.html)], [[PDF](https://ieeexplore.ieee.org/document/9238430)]
-+ **Sizhe Chen**, Fan He, Xiaolin Huang\*, Kun Zhang. Relevance Attack on Detectors. *Pattern Recognition (PR)*, 2021. [[PDF](https://www.sciencedirect.com/science/article/pii/S0031320321006671)]
-+ **Sizhe Chen**, Qinghua Tao, Zhehao Huang, Xiaolin Huang\*. QueryNet: Attack by Multi-Identity Surrogates. Submitted to *IEEE Transactions on Image Processing (TIP)*, 2021. [[PDF](https://arxiv.org/abs/2105.15010)]
-+ **Sizhe Chen**, Qinghua Tao, Zhixing Ye, Xiaolin Huang\*. Measuring L_infty Attacks by the L_2 Norm. Submitted to *Machine Learning (ML)*, 2021. [[PDF](https://arxiv.org/abs/2102.10343)]
-+ Chengjin Sun, **Sizhe Chen**, Jia Cai, Xiaolin Huang\*. Type I Attack for Generative Models. *International Conference on Image Processing (ICIP)*, 2020. [[PDF](https://arxiv.org/abs/2003.01872)]
-+ Fan He, **Sizhe Chen**, Shuaiyi Li, Lu Zhou, Haiqin Zhang, Haixia Peng, Xiaolin Huang\*. Colonoscopic Image Synthesis for Polyp Detector Enhancement via GAN and Adversarial Training. *International Symposium on Biomedical Imaging (ISBI)*, 2021. [[PDF](https://ieeexplore.ieee.org/abstract/document/9434050)]
-+ Tao Li, Yingwen Wu, **Sizhe Chen**, Kun Fang, Xiaolin Huang\*. Subspace Adversarial Training. Submitted to *Conference on Computer Vision and Pattern Recognition (CVPR)*, 2022. [[PDF](https://arxiv.org/abs/2111.12229)]
++ **Sizhe Chen**, Zhengbao He, Chengjin Sun, Jie Yang, Xiaolin Huang\**. Universal Adversarial Attack on Attention and the Resulting Dataset DAmageNet. *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*, 2022. [[News](https://news.sjtu.edu.cn/jdzh/20201102/133855.html)], [[PDF](https://ieeexplore.ieee.org/document/9238430)]
++ Tao Li, Yingwen Wu, **Sizhe Chen**, Kun Fang, Xiaolin Huang\**. Subspace Adversarial Training. *Conference on Computer Vision and Pattern Recognition (CVPR)* **oral**, 2022. [[PDF](https://arxiv.org/abs/2111.12229)]
++ **Sizhe Chen**, Fan He, Xiaolin Huang\**, Kun Zhang. Relevance Attack on Detectors. *Pattern Recognition (PR)*, 2021. [[PDF](https://www.sciencedirect.com/science/article/pii/S0031320321006671)]
++ Chengjin Sun, **Sizhe Chen**, Jia Cai, Xiaolin Huang\**. Type I Attack for Generative Models. *International Conference on Image Processing (ICIP)*, 2020. [[PDF](https://arxiv.org/abs/2003.01872)]
++ Fan He, **Sizhe Chen**, Shuaiyi Li, Lu Zhou, Haiqin Zhang, Haixia Peng, Xiaolin Huang\**. Colonoscopic Image Synthesis for Polyp Detector Enhancement via GAN and Adversarial Training. *International Symposium on Biomedical Imaging (ISBI)*, 2021. [[PDF](https://ieeexplore.ieee.org/abstract/document/9434050)]
+
+Preprints
+------
++ **Sizhe Chen**, Zhehao Huang, Qinghua Tao, Xiaolin Huang\**. QueryNet: Attack by Multi-Identity Surrogates. Submitted to *IEEE Transactions on Image Processing (TIP)*, 2021. [[PDF](https://arxiv.org/abs/2105.15010)]
++ **Sizhe Chen**, Zhehao Huang, Qinghua Tao, Yingwen Wu, Cihang Xie, Xiaolin Huang\**. Adversarial Attack on Attackers: Post-Process to Mitigate Black-Box
+  Score-Based Query Attacks. Submitted to *Annual Conference on Neural Information Processing Systems (NeurIPS)*, 2022. [[PDF](https://arxiv.org/abs/2205.12134)]
++ Shutong Wu \*, **Sizhe Chen\***, Cihang Xie, Xiaolin Huang\**. One-Pixel Shortcut: on the Learning Preference of Deep Neural Networks. Submitted to *Annual Conference on Neural Information Processing Systems (NeurIPS)*, 2022. [[PDF](https://arxiv.org/abs/2205.12141)]
 
 Work
 ------
