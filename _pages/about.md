@@ -29,7 +29,7 @@ Publications
 + Tao Li, Yingwen Wu, **Sizhe Chen**, Kun Fang, Xiaolin Huang\*\*. Subspace Adversarial Training. *Conference on Computer Vision and Pattern Recognition (CVPR)*, **Oral (3.4%)**, 2022. [[PDF](https://arxiv.org/abs/2111.12229)]
 + **Sizhe Chen**, Fan He, Xiaolin Huang\*\*, Kun Zhang. Relevance Attack on Detectors. *Pattern Recognition (PR)*, 2021. [[PDF](https://www.sciencedirect.com/science/article/pii/S0031320321006671)]
 + Fan He, **Sizhe Chen**, Shuaiyi Li, Lu Zhou, Haiqin Zhang, Haixia Peng, Xiaolin Huang\*\*. Colonoscopic Image Synthesis for Polyp Detector Enhancement via GAN and Adversarial Training. *International Symposium on Biomedical Imaging (ISBI)*, 2021. [[PDF](https://ieeexplore.ieee.org/abstract/document/9434050)]
-+ Chengjin Sun, **Sizhe Chen**, Jia Cai, Xiaolin Huang\*\*. Type I Attack for Generative Models. *IEEE International Conference on Image Processing (ICIP)*, 2020. [[PDF](https://arxiv.org/abs/2003.01872)]
++ Chengjin Sun, **Sizhe Chen**, Jia Cai, Xiaolin Huang\*\*. Type I Attack for Generative Models. *IEEE International Conference on Image Processing (ICIP)*, 2020. [[PDF](https://ieeexplore.ieee.org/document/9191032)]
 
 Preprints
 ------
@@ -43,7 +43,7 @@ Preprints
 Work
 ------
 + Internship: Tencent Zhuque Lab, 2020.
-   + My job: a main contributor of a technical report. [[News](https://ai.tencent.com/ailab/zh/news/detial/?id=68)] [[PDF](https://ai.tencent.com/ailab/media/AI%E5%AE%89%E5%85%A8%E7%9A%84%E5%A8%81%E8%83%81%E9%A3%8E%E9%99%A9%E7%9F%A9%E9%98%B5.pdf)]
+   + My job: a main contributor of a technical report. [[News](https://ai.tencent.com/ailab/zh/news/detial/?id=68)]
    + Achievements: two patents as the first inventor.
 <!--    + Technical report: AI security matrix (a main contributor). [[News](https://ai.tencent.com/ailab/zh/news/detial/?id=68)] [[PDF](https://ai.tencent.com/ailab/media/AI%E5%AE%89%E5%85%A8%E7%9A%84%E5%A8%81%E8%83%81%E9%A3%8E%E9%99%A9%E7%9F%A9%E9%98%B5.pdf)]-->
 <!--    + Patent: Poisoning Attack by Perturbing Few Parameters (First Inventor).-->
@@ -61,7 +61,7 @@ Work
 <!--    + My job: lead our team to achieve a top 1.5% ranking, architecture design. -->
 + Student Work: President, Piano Association of SJTU, 2018.
    + My job: Chief Director of 3 concerts, each with 1K+ live viewers.
-   + 10+ piano performance on the stage of school events. [[Videos](https://mp.weixin.qq.com/s?__biz=Mzg2MDA2Mjc1Ng==&mid=100000090&idx=1&sn=0821a4c2341669ec5b49fe467c23696c&chksm=4e2d5411795add07b6dbb339f7b09f70a33d17027f970cae6e35e4e683b0d4e2b66f51cf7bef&mpshare=1&scene=1&srcid=1021b5QMI6YsYOpieovE9ZQQ&sharer_sharetime=1603267780784&sharer_shareid=854bac99d67db70d9973adcbca4dc98e&key=90349d069103c4031feaa74c647eb28f6e7b3f3dda349616729c312551674b22d3fa08725ce2b3f99cd566e760fedd4d49319497ae0f1d004f5c3cc7b40d8361365533b1c9d6211820ad1516cc9d837dbe0423f342ebcc504ea91269a125ca808abae47e97c4e50aa7a1efff2656bd4d311a36149e62e56c7a395a0558cf4869&ascene=1&uin=MjEwNzAwOTIzMg%3D%3D&devicetype=Windows+10+x64&version=6300002f&lang=zh_CN&exportkey=AQ9aaG10cjU2NNOtMdwtpLg%3D&pass_ticket=wRecyC0amGH8W8z5qXGoeupl1o5YE%2FbnivrXViODDPJxTuAKpnur%2Fylkyhz6JTc4&wx_header=0)]
+   + 10+ piano performance on the stage of school events. [[Videos](https://mp.weixin.qq.com/s/gF-4HHKWP2vpspvXtotypg)]
 + Summer School: Electrical Engineering International Intensive, 2017.
    + Organization: University of Washington.
    + Courses: Circuit Theory, Introduction to C and Microprocessors.
@@ -77,7 +77,7 @@ Award
 Service
 ------
 + **Reviewer**: *IEEE TPAMI*, *Pattern Recognition*, *IEEE ISBI*, *ECCV 2022*.
-+ Volunteer: [Traffic·Future](https://jtwl.sjtu.edu.cn) Scientific Competition, Shanghai International Half Marathon.
++ Volunteer: Traffic·Future Scientific Competition, Shanghai International Half Marathon.
 + Blood Donator: 1400cc.
 
 Skills
