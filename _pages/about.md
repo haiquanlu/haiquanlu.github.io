@@ -15,7 +15,7 @@ I'm an M.S. student at the Institute of Image Processing and Pattern Recognition
 
 Education
 ------
-+ M.S. Student in Department of Automation, SJTU, 2020 - 2023 (estimated).
++ M.S. Student in Department of Automation, SJTU, 2020 - 2023.
    + Supervisor: [Xiaolin Huang](http://www.pami.sjtu.edu.cn/en/xiaolin)
 + B.S. Degree in Department of Automation, SJTU, 2016 - 2020.
    + Grade: 88.56, 135 credits, **5/95**. [[Resources](https://github.com/AllenChen1998/SJTU-Automation-Materials)]
@@ -25,20 +25,20 @@ Education
 
 Publications
 ------
-+ **Sizhe Chen**, Zhengbao He, Chengjin Sun, Jie Yang, Xiaolin Huang\**. Universal Adversarial Attack on Attention and the Resulting Dataset DAmageNet. *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*, 2022. [[News](https://news.sjtu.edu.cn/jdzh/20201102/133855.html)], [[PDF](https://ieeexplore.ieee.org/document/9238430)]
-+ Tao Li, Yingwen Wu, **Sizhe Chen**, Kun Fang, Xiaolin Huang\**. Subspace Adversarial Training. *Conference on Computer Vision and Pattern Recognition (CVPR)* **oral**, 2022. [[PDF](https://arxiv.org/abs/2111.12229)]
-+ **Sizhe Chen**, Fan He, Xiaolin Huang\**, Kun Zhang. Relevance Attack on Detectors. *Pattern Recognition (PR)*, 2021. [[PDF](https://www.sciencedirect.com/science/article/pii/S0031320321006671)]
-+ Chengjin Sun, **Sizhe Chen**, Jia Cai, Xiaolin Huang\**. Type I Attack for Generative Models. *IEEE International Conference on Image Processing (ICIP)*, 2020. [[PDF](https://arxiv.org/abs/2003.01872)]
-+ Fan He, **Sizhe Chen**, Shuaiyi Li, Lu Zhou, Haiqin Zhang, Haixia Peng, Xiaolin Huang\**. Colonoscopic Image Synthesis for Polyp Detector Enhancement via GAN and Adversarial Training. *International Symposium on Biomedical Imaging (ISBI)*, 2021. [[PDF](https://ieeexplore.ieee.org/abstract/document/9434050)]
++ **Sizhe Chen**, Zhengbao He, Chengjin Sun, Jie Yang, Xiaolin Huang\*\*. Universal Adversarial Attack on Attention and the Resulting Dataset DAmageNet. *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*, 2022. [[News](https://news.sjtu.edu.cn/jdzh/20201102/133855.html)], [[PDF](https://ieeexplore.ieee.org/document/9238430)]
++ Tao Li, Yingwen Wu, **Sizhe Chen**, Kun Fang, Xiaolin Huang\*\*. Subspace Adversarial Training. *Conference on Computer Vision and Pattern Recognition (CVPR)* **oral**, 2022. [[PDF](https://arxiv.org/abs/2111.12229)]
++ **Sizhe Chen**, Fan He, Xiaolin Huang\*\*, Kun Zhang. Relevance Attack on Detectors. *Pattern Recognition (PR)*, 2021. [[PDF](https://www.sciencedirect.com/science/article/pii/S0031320321006671)]
++ Chengjin Sun, **Sizhe Chen**, Jia Cai, Xiaolin Huang\*\*. Type I Attack for Generative Models. *IEEE International Conference on Image Processing (ICIP)*, 2020. [[PDF](https://arxiv.org/abs/2003.01872)]
++ Fan He, **Sizhe Chen**, Shuaiyi Li, Lu Zhou, Haiqin Zhang, Haixia Peng, Xiaolin Huang\*\*. Colonoscopic Image Synthesis for Polyp Detector Enhancement via GAN and Adversarial Training. *International Symposium on Biomedical Imaging (ISBI)*, 2021. [[PDF](https://ieeexplore.ieee.org/abstract/document/9434050)]
 
 Preprints
 ------
-+ **Sizhe Chen**, Zhehao Huang, Qinghua Tao, Xiaolin Huang\**. QueryNet: Attack by Multi-Identity Surrogates. Submitted to *IEEE Transactions on Image Processing (TIP)*, 2021. [[PDF](https://arxiv.org/abs/2105.15010)]
-+ **Sizhe Chen**, Zhehao Huang, Qinghua Tao, Yingwen Wu, Cihang Xie, Xiaolin Huang\**. Adversarial Attack on Attackers: Post-Process to Mitigate Black-Box
++ **Sizhe Chen**, Zhehao Huang, Qinghua Tao, Xiaolin Huang\*\*. QueryNet: Attack by Multi-Identity Surrogates. Submitted to *IEEE Transactions on Image Processing (TIP)*, 2021. [[PDF](https://arxiv.org/abs/2105.15010)]
++ **Sizhe Chen**, Zhehao Huang, Qinghua Tao, Yingwen Wu, Cihang Xie, Xiaolin Huang\*\*. Adversarial Attack on Attackers: Post-Process to Mitigate Black-Box
   Score-Based Query Attacks. Submitted to *Annual Conference on Neural Information Processing Systems (NeurIPS)*, 2022. [[PDF](https://arxiv.org/abs/2205.12134)]
-+ Shutong Wu \*, **Sizhe Chen\***, Cihang Xie, Xiaolin Huang\**. One-Pixel Shortcut: on the Learning Preference of Deep Neural Networks. Submitted to *Annual Conference on Neural Information Processing Systems (NeurIPS)*, 2022. [[PDF](https://arxiv.org/abs/2205.12141)]
-+ **Sizhe Chen**, Qinghua Tao, Zhixing Ye, Xiaolin Huang\**. Measuring the Transferability of ℓ-infty Attacks by the ℓ-2 Norm. Submitted to *IEEE International Conference on Image Processing (ICIP)*, 2022. [[PDF](https://arxiv.org/abs/2105.15010)]
-+ Yingwen Wu, **Sizhe Chen**, Kun Fang, Xiaolin Huang\**. Concealing Information by Gradient Consistency Defense for Real-world Robustness. Submitted to *ACM Transactions on Intelligent Systems and Technology*, 2022.
++ Shutong Wu \*, **Sizhe Chen \***, Cihang Xie, Xiaolin Huang\*\*. One-Pixel Shortcut: on the Learning Preference of Deep Neural Networks. Submitted to *Annual Conference on Neural Information Processing Systems (NeurIPS)*, 2022. [[PDF](https://arxiv.org/abs/2205.12141)]
++ **Sizhe Chen**, Qinghua Tao, Zhixing Ye, Xiaolin Huang\*\*. Measuring the Transferability of ℓ-infty Attacks by the ℓ-2 Norm. Submitted to *IEEE International Conference on Image Processing (ICIP)*, 2022. [[PDF](https://arxiv.org/abs/2105.15010)]
++ Yingwen Wu, **Sizhe Chen**, Kun Fang, Xiaolin Huang\*\*. Concealing Information by Gradient Consistency Defense for Real-world Robustness. Submitted to *ACM Transactions on Intelligent Systems and Technology*, 2022.
 
 Work
 ------
