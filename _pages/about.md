@@ -36,7 +36,7 @@ Preprints
 + **Sizhe Chen**, Zhehao Huang, Qinghua Tao, Yingwen Wu, Cihang Xie, Xiaolin Huang\*\*. Adversarial Attack on Attackers: Post-Process to Mitigate Black-Box
   Score-Based Query Attacks. Submitted to *Annual Conference on Neural Information Processing Systems (NeurIPS)*, 2022. [[PDF](https://arxiv.org/abs/2205.12134)]
 + **Sizhe Chen**, Zhehao Huang, Qinghua Tao, Xiaolin Huang\*\*. QueryNet: Attack by Multi-Identity Surrogates. Submitted to *IEEE Transactions on Image Processing (TIP)*, 2022. [[PDF](https://arxiv.org/abs/2105.15010)]
-+ Shutong Wu\*, **Sizhe Chen\***, Cihang Xie, Xiaolin Huang\*\*. One-Pixel Shortcut: on the Learning Preference of Deep Neural Networks. Submitted to *Annual Conference on Neural Information Processing Systems (NeurIPS)*, 2022. [[PDF](https://arxiv.org/abs/2205.12141)]
++ Shutong Wu\*, **Sizhe Chen\***, Cihang Xie, Xiaolin Huang\*\*. One-Pixel Shortcut: On the Learning Preference of Deep Neural Networks. Submitted to *Annual Conference on Neural Information Processing Systems (NeurIPS)*, 2022. [[PDF](https://arxiv.org/abs/2205.12141)]
 + **Sizhe Chen**, Qinghua Tao, Zhixing Ye, Xiaolin Huang\*\*. Measuring the Transferability of ℓ-infty Attacks by the ℓ-2 Norm. Submitted to *IEEE International Conference on Image Processing (ICIP)*, 2022. [[PDF](https://arxiv.org/abs/2102.10343)]
 + Yingwen Wu, **Sizhe Chen**, Kun Fang, Xiaolin Huang\*\*. Concealing Information by Gradient Consistency Defense for Real-world Robustness. Submitted to *ACM Transactions on Intelligent Systems and Technology*, 2022.
 
