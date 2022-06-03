@@ -40,7 +40,7 @@ Preprints
 + **Sizhe Chen**, Qinghua Tao, Zhixing Ye, Xiaolin Huang\*\*. Measuring the Transferability of ℓ-infty Attacks by the ℓ-2 Norm. Submitted to *IEEE International Conference on Image Processing (ICIP)*, 2022. [[PDF](https://arxiv.org/abs/2102.10343)]
 + Yingwen Wu, **Sizhe Chen**, Kun Fang, Xiaolin Huang\*\*. Concealing Information by Gradient Consistency Defense for Real-world Robustness. Submitted to *ACM Transactions on Intelligent Systems and Technology*, 2022.
 
-Work
+Experience
 ------
 + Internship: Tencent Zhuque Lab, 2020.
    + My job: a main contributor of a technical report. [[News](https://ai.tencent.com/ailab/zh/news/detial/?id=68)]
@@ -49,9 +49,9 @@ Work
 <!--    + Patent: Poisoning Attack by Perturbing Few Parameters (First Inventor).-->
 <!--    + Patent: Efficient Model Stealing by Transferable Attacks (First Inventor).-->
 <!--    + Organization: Institute of Medical Robotics, SJTU. Shanghai Tong Ren Hospital.-->
-+ Lab Project: Endoscopic Processing and Urinary Robotics, 2020.
-    + My job: design a data augmentation framework for medical images.
-    + Achievements: a paper (ISBI) and a patent.
+<!--    + Lab Project: Endoscopic Processing and Urinary Robotics, 2020.
+<!--        + My job: design a data augmentation framework for medical images.
+<!--        + Achievements: a paper (ISBI) and a patent.
 <!-- + Lab Project: Robust Machine Learning in Object Detection, 2021.-->
 <!--    + Organization: The Central Media Technology Institute of the Laboratory, Huawei.-->
 <!--    + My job: reduce false detection by augmentation and attack.-->
@@ -60,7 +60,7 @@ Work
 <!--    + Organization: Alibaba, 4th competition of CIKM 2020. -->
 <!--    + My job: lead our team to achieve a top 1.5% ranking, architecture design. -->
 + Student Work: President, Piano Association of SJTU, 2018.
-   + My job: Chief Director of 3 concerts, each with 1K+ live viewers.
+   + My job: Chief director of 3 concerts, each with 1K+ live viewers.
    + 10+ piano performance on the stage of school events. [[Videos](https://mp.weixin.qq.com/s/gF-4HHKWP2vpspvXtotypg)]
 + Summer School: Electrical Engineering International Intensive, 2017.
    + Organization: University of Washington.
@@ -76,7 +76,7 @@ Award
 
 Service
 ------
-+ **Reviewer**: *IEEE TPAMI*, *Pattern Recognition*, *IEEE ISBI*, *ECCV 2022*.
++ **Reviewer**: *IEEE TPAMI*, *ECCV*, *PR*, *IEEE ISBI*.
 + Volunteer: Traffic·Future Scientific Competition, Shanghai International Half Marathon.
 + Blood Donator: 1400cc.
 
