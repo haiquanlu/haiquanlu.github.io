@@ -11,7 +11,7 @@ redirect_from:
   
 Biography
 ------
-I'm an M.S. student at the Institute of Image Processing and Pattern Recognition, Department of Automation, Shanghai Jiao Tong University (SJTU), China. I received my B.S. degree in the Department of Automation, SJTU in 2020. My research interests are adversarial learning and model acceleration. See my CV [here](https://drive.google.com/file/d/1KhOlC-7jzFW24zUUARxMNrgVwxxBXxy2/view?usp=sharing).
+I'm an postgraduate student at the Institute of Image Processing and Pattern Recognition, Department of Automation, Shanghai Jiao Tong University (SJTU), China. I received my B.S. degree in the Department of Automation, SJTU in 2020. My research interests are adversarial learning and model acceleration. See my CV [here](https://drive.google.com/file/d/1KhOlC-7jzFW24zUUARxMNrgVwxxBXxy2/view?usp=sharing).
 
 Education
 ------
@@ -41,11 +41,11 @@ Experience
 + Student Work: President, Piano Association of SJTU, 2018.
    + My job: Chief director of 3 concerts, each with 1K+ live viewers.
    + 10+ piano performance on the stage of school events. [[Videos](https://mp.weixin.qq.com/s/gF-4HHKWP2vpspvXtotypg)]
-+ Summer School: Electrical Engineering International Intensive, 2017.
-   + Organization: University of Washington.
++ Summer School: University of Washington, 2017.
+   + Program: Electrical Engineering International Intensive.
    + Courses: Circuit Theory, Introduction to C and Microprocessors.
 
-Award
+Awards
 ------
 + National Scholarship (Top 2%), 2021.
 + Extraordinary Bachelor's Thesis (Top 1%), 2020. [[News](https://automation.sjtu.edu.cn/show/1091)]
