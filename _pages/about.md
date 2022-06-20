@@ -17,48 +17,27 @@ Education
 ------
 + M.S. Student in Department of Automation, SJTU, 2020 - 2023.
    + Supervisor: [Xiaolin Huang](http://www.pami.sjtu.edu.cn/en/xiaolin)
+   + Thesis: Real-World Adversarial Attacks and Defenses
 + B.S. Degree in Department of Automation, SJTU, 2016 - 2020.
    + Grade: 88.56, 135 credits, **5/95**. [[Resources](https://github.com/AllenChen1998/SJTU-Automation-Materials)]
    + Machine Learning (Top 1), Artificial Intelligence (Top 1), Advanced Mathematics (1.2%).
-   <!-- + [Thesis](https://sjcg.jwc.sjtu.edu.cn/375/3/3/Dissertation.html) (in English): Semantic-Based Adversarial Attack and Its Transferability.-->
-   + Extraordinary Bachelor's Thesis: **Top 1% (39/4000+)**. [[Thesis](https://sjcg.jwc.sjtu.edu.cn/375/3/3/Dissertation.html)], [[News](https://automation.sjtu.edu.cn/show/1091)], [[Defense](https://v.qq.com/x/page/p31356mbu5g.html)]
+   + Thesis: Semantic-Based Adversarial Attack and Its Transferability. [[PDF](https://sjcg.jwc.sjtu.edu.cn/375/3/3/Dissertation.html)], [[Defense](https://v.qq.com/x/page/p31356mbu5g.html)]
 
-Publications
+Research
 ------
 + **Sizhe Chen**, Zhengbao He, Chengjin Sun, Jie Yang, Xiaolin Huang\*\*. Universal Adversarial Attack on Attention and the Resulting Dataset DAmageNet. *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*, 2022. [[News](https://news.sjtu.edu.cn/jdzh/20201102/133855.html)], [[PDF]([https://ieeexplore.ieee.org/document/9238430](https://ieeexplore.ieee.org/document/9238430))]
 + Tao Li, Yingwen Wu, **Sizhe Chen**, Kun Fang, Xiaolin Huang\*\*. Subspace Adversarial Training. *Conference on Computer Vision and Pattern Recognition (CVPR)*, **Oral (3.4%)**, 2022. [[PDF](https://arxiv.org/abs/2111.12229)]
 + **Sizhe Chen**, Fan He, Xiaolin Huang\*\*, Kun Zhang. Relevance Attack on Detectors. *Pattern Recognition (PR)*, 2021. [[PDF](https://www.sciencedirect.com/science/article/pii/S0031320321006671)]
-+ Fan He, **Sizhe Chen**, Shuaiyi Li, Lu Zhou, Haiqin Zhang, Haixia Peng, Xiaolin Huang\*\*. Colonoscopic Image Synthesis for Polyp Detector Enhancement via GAN and Adversarial Training. *IEEE International Symposium on Biomedical Imaging (ISBI)*, 2021. [[PDF](https://ieeexplore.ieee.org/document/9434050)]
-+ Chengjin Sun, **Sizhe Chen**, Jia Cai, Xiaolin Huang\*\*. Type I Attack for Generative Models. *IEEE International Conference on Image Processing (ICIP)*, 2020. [[PDF](https://ieeexplore.ieee.org/document/9191032)]
-
-Preprints
-------
 + **Sizhe Chen**, Zhehao Huang, Qinghua Tao, Yingwen Wu, Cihang Xie, Xiaolin Huang\*\*. Adversarial Attack on Attackers: Post-Process to Mitigate Black-Box
   Score-Based Query Attacks. Submitted to *Annual Conference on Neural Information Processing Systems (NeurIPS)*, 2022. [[PDF](https://arxiv.org/abs/2205.12134)]
 + **Sizhe Chen**, Zhehao Huang, Qinghua Tao, Xiaolin Huang\*\*. QueryNet: Attack by Multi-Identity Surrogates. Submitted to *IEEE Transactions on Image Processing (TIP)*, 2022. [[PDF](https://arxiv.org/abs/2105.15010)]
-+ Shutong Wu\*, **Sizhe Chen\***, Cihang Xie, Xiaolin Huang\*\*. One-Pixel Shortcut: On the Learning Preference of Deep Neural Networks. Submitted to *Annual Conference on Neural Information Processing Systems (NeurIPS)*, 2022. [[PDF](https://arxiv.org/abs/2205.12141)]
-+ **Sizhe Chen**, Qinghua Tao, Zhixing Ye, Xiaolin Huang\*\*. Measuring the Transferability of ℓ-infty Attacks by the ℓ-2 Norm. Submitted to *IEEE International Conference on Image Processing (ICIP)*, 2022. [[PDF](https://arxiv.org/abs/2102.10343)]
 + Yingwen Wu, **Sizhe Chen**, Kun Fang, Xiaolin Huang\*\*. Concealing Information by Gradient Consistency Defense for Real-world Robustness. Submitted to *ACM Transactions on Intelligent Systems and Technology*, 2022.
 
 Experience
 ------
 + Internship: Tencent Zhuque Lab, 2020.
-   + My job: a main contributor of a technical report. [[News](https://ai.tencent.com/ailab/zh/news/detial/?id=68)]
+   + My job: a main contributor of a technical report. [[Website](https://aisecmatrix.org/en)]
    + Achievements: two patents as the first inventor.
-<!--    + Technical report: AI security matrix (a main contributor). [[News](https://ai.tencent.com/ailab/zh/news/detial/?id=68)] [[PDF](https://ai.tencent.com/ailab/media/AI%E5%AE%89%E5%85%A8%E7%9A%84%E5%A8%81%E8%83%81%E9%A3%8E%E9%99%A9%E7%9F%A9%E9%98%B5.pdf)]-->
-<!--    + Patent: Poisoning Attack by Perturbing Few Parameters (First Inventor).-->
-<!--    + Patent: Efficient Model Stealing by Transferable Attacks (First Inventor).-->
-<!--    + Organization: Institute of Medical Robotics, SJTU. Shanghai Tong Ren Hospital.-->
-<!--    + Lab Project: Endoscopic Processing and Urinary Robotics, 2020.
-<!--        + My job: design a data augmentation framework for medical images.
-<!--        + Achievements: a paper (ISBI) and a patent.
-<!-- + Lab Project: Robust Machine Learning in Object Detection, 2021.-->
-<!--    + Organization: The Central Media Technology Institute of the Laboratory, Huawei.-->
-<!--    + My job: reduce false detection by augmentation and attack.-->
-<!--    + Achievements: double the mAP on the original false detections.-->
-<!-- + Competition: Transferable Adversarial Attack in Object Detection, 2020.-->
-<!--    + Organization: Alibaba, 4th competition of CIKM 2020. -->
-<!--    + My job: lead our team to achieve a top 1.5% ranking, architecture design. -->
 + Student Work: President, Piano Association of SJTU, 2018.
    + My job: Chief director of 3 concerts, each with 1K+ live viewers.
    + 10+ piano performance on the stage of school events. [[Videos](https://mp.weixin.qq.com/s/gF-4HHKWP2vpspvXtotypg)]
@@ -68,19 +47,14 @@ Experience
 
 Award
 ------
-+ National Scholarship (Top 2% in Shanghai Jiao Tong University), 2021.
++ National Scholarship (Top 2%), 2021.
++ Extraordinary Bachelor's Thesis (Top 1%), 2020. [[News](https://automation.sjtu.edu.cn/show/1091)]
 + Outstanding Graduate in Shanghai Jiao Tong University (Top 10%), 2020. [[News](https://automation.sjtu.edu.cn/show/1081)]
-+ Grand Prize of Automation System Application Contest (Top 5%), 2019. [[News](https://news.sjtu.edu.cn/zhxw/20190807/108459.html)]
-+ Kwang-Hua Scholarship (Top 5%), 2019.
-+ Golden Dragon Fish Scholarship (Top 5%), 2017.
 
-Service
+Others
 ------
-+ **Reviewer**: *IEEE TPAMI*, *ECCV*, *PR*, *IEEE ISBI*.
++ Reviewer: *IEEE TPAMI*, *ECCV*, *PR*, *IEEE ISBI*.
 + Volunteer: Traffic·Future Scientific Competition, Shanghai International Half Marathon.
 + Blood Donator: 1400cc.
-
-Skills
-------
 + Programming: Python (PyTorch, Keras, TensorFlow), Matlab, C/C++, Verilog.
 + English: TOFEL 107 (28+29+23+27), GRE 331 4.0
