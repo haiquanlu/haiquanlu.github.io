@@ -19,7 +19,7 @@ Education
    + Supervisor: [Xiaolin Huang](http://www.pami.sjtu.edu.cn/en/xiaolin)
    + Thesis: Real-World Adversarial Attacks and Defenses
 + B.S. Degree in Department of Automation, SJTU, 2016 - 2020.
-   + Grade: 88.56, 135 credits, **5/95**. [[Resources](https://github.com/AllenChen1998/SJTU-Automation-Materials)]
+   + Grade: 88.56 (5/95). [[Resources](https://github.com/AllenChen1998/SJTU-Automation-Materials)]
    + Machine Learning (Top 1), Artificial Intelligence (Top 1), Advanced Mathematics (1.2%).
    + Thesis: Semantic-Based Adversarial Attack and Its Transferability. [[PDF](https://sjcg.jwc.sjtu.edu.cn/375/3/3/Dissertation.html)], [[Defense](https://v.qq.com/x/page/p31356mbu5g.html)]
 
