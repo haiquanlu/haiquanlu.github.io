@@ -40,7 +40,7 @@ Experience
    + Achievements: two patents as the first inventor.
 + Student Work: President, Piano Association of SJTU, 2018.
    + My job: Chief director of 3 concerts, each with 1K+ live viewers.
-   + 10+ piano performance on the stage of school events. [[Videos](https://mp.weixin.qq.com/s/gF-4HHKWP2vpspvXtotypg)]
+   + 10+ piano performance on the stage of school events. [[Videos](https://mp.weixin.qq.com/s?__biz=Mzg2MDA2Mjc1Ng==&tempkey=MTE3MV9BbXdFdm9kcXd3ZmR1RnpoUllFbnRldklvN0I3aDN5NHI4NWJ3cmFUb1Z5TkF4OEFEUEJiZ3Y1dUJQUmRKNFNEM21WdWQzM1Zrd3NRMDh4eTRrbEhlNURHMUJVLWRkU1ppTUpOc04yTk9hSS1RX0FQUTZwTVdUbmlra01Kc010dk12WnEyRXhHT2xFbTBnUGNjcmZXVjE3TXMwWlpYZ0dWVDFJbElnfn4%3D&chksm=ce2d54e9f95addffb1c72d71245fa59e12ddea62b25e6801a1b7f64c779eba445c57cb692b01#rd)]
 + Summer School: University of Washington, 2017.
    + Program: Electrical Engineering International Intensive.
    + Courses: Circuit Theory, Introduction to C and Microprocessors.
