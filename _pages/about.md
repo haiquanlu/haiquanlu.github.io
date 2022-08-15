@@ -25,9 +25,9 @@ Education
 
 Research
 ------
-+ **Sizhe Chen**, Zhengbao He, Chengjin Sun, Jie Yang, Xiaolin Huang\*. Universal Adversarial Attack on Attention and the Resulting Dataset DAmageNet. *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*, 2022. [[PDF](https://ieeexplore.ieee.org/document/9238430)]
-+ Tao Li, Yingwen Wu, **Sizhe Chen**, Kun Fang, Xiaolin Huang\*. Subspace Adversarial Training. *Conference on Computer Vision and Pattern Recognition (CVPR)*, **Oral (4%)**, 2022. [[PDF](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Subspace_Adversarial_Training_CVPR_2022_paper)]
++ **Sizhe Chen**, Zhengbao He, Chengjin Sun, Jie Yang, Xiaolin Huang\*. Universal Adversarial Attack on Attention and the Resulting Dataset DAmageNet. *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*, 2020. [[PDF](https://ieeexplore.ieee.org/document/9238430)]
 + **Sizhe Chen**, Fan He, Xiaolin Huang\*, Kun Zhang. Relevance Attack on Detectors. *Pattern Recognition (PR)*, 2021. [[PDF](https://www.sciencedirect.com/science/article/pii/S0031320321006671)]
++ Tao Li, Yingwen Wu, **Sizhe Chen**, Kun Fang, Xiaolin Huang\*. Subspace Adversarial Training. *Conference on Computer Vision and Pattern Recognition (CVPR)*, **Oral (4%)**, 2022. [[PDF](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Subspace_Adversarial_Training_CVPR_2022_paper)]
 + **Sizhe Chen**, Zhehao Huang, Qinghua Tao, Yingwen Wu, Cihang Xie, Xiaolin Huang\*. Adversarial Attack on Attackers: Post-Process to Mitigate Black-Box
   Score-Based Query Attacks. Submitted to *Annual Conference on Neural Information Processing Systems (NeurIPS)*, 2022. [[PDF](https://arxiv.org/abs/2205.12134)]
 + **Sizhe Chen**, Zhehao Huang, Qinghua Tao, Xiaolin Huang\*. QueryNet: Attack by Multi-Identity Surrogates. Submitted to *IEEE Transactions on Image Processing (TIP)*, 2022. [[PDF](https://arxiv.org/abs/2105.15010)]
