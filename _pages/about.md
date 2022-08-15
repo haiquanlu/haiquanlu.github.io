@@ -11,7 +11,7 @@ redirect_from:
   
 Biography
 ------
-I'm a third-year postgraduate student at the Institute of Image Processing and Pattern Recognition, Department of Automation, Shanghai Jiao Tong University (SJTU), China. I received my B.S. degree in the Department of Automation, SJTU. My research interests are adversarial learning and model acceleration. See my CV [here](https://drive.google.com/file/d/1KhOlC-7jzFW24zUUARxMNrgVwxxBXxy2/view?usp=sharing). I'm currently applying for Ph.D. positions.
+I'm a third-year postgraduate student at the Institute of Image Processing and Pattern Recognition, Department of Automation, Shanghai Jiao Tong University (SJTU), China. I received my B.S. degree in the Department of Automation, SJTU. My research interests are adversarial learning in applications, machine learning. See my CV [here](https://drive.google.com/file/d/1KhOlC-7jzFW24zUUARxMNrgVwxxBXxy2/view?usp=sharing). I'm currently applying for Ph.D. positions.
 
 Education
 ------
@@ -31,7 +31,7 @@ Research
 + **Sizhe Chen**, Zhehao Huang, Qinghua Tao, Yingwen Wu, Cihang Xie, Xiaolin Huang\*. Adversarial Attack on Attackers: Post-Process to Mitigate Black-Box
   Score-Based Query Attacks. Submitted to *Annual Conference on Neural Information Processing Systems (NeurIPS)*, 2022. [[PDF](https://arxiv.org/abs/2205.12134)]
 + **Sizhe Chen**, Zhehao Huang, Qinghua Tao, Xiaolin Huang\*. QueryNet: Attack by Multi-Identity Surrogates. Submitted to *IEEE Transactions on Image Processing (TIP)*, 2022. [[PDF](https://arxiv.org/abs/2105.15010)]
-+ Yingwen Wu, **Sizhe Chen**, Kun Fang, Xiaolin Huang\*. Concealing Information by Gradient Consistency Defense for Real-world Robustness. Submitted to *ACM Transactions on Intelligent Systems and Technology (TIST)*, 2022.
++ Yingwen Wu, **Sizhe Chen**, Kun Fang, Xiaolin Huang\*. Unifying Gradients to Improve Real-world Robustness for Deep Networks. Submitted to *ACM Transactions on Intelligent Systems and Technology (TIST)*, 2022. [[PDF](http://arxiv.org/abs/2208.06228)]
 
 Experience
 ------
