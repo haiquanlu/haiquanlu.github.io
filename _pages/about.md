@@ -11,7 +11,7 @@ redirect_from:
   
 Biography
 ------
-I'm a third-year postgraduate student at the Institute of Image Processing and Pattern Recognition, Department of Automation, Shanghai Jiao Tong University (SJTU), China. I received my B.S. degree in the Department of Automation, SJTU. My research interests are adversarial learning in applications, machine learning. See my CV [here](https://drive.google.com/file/d/1KhOlC-7jzFW24zUUARxMNrgVwxxBXxy2/view?usp=sharing). I'm currently applying for Ph.D. positions.
+I'm a third-year postgraduate student at the Institute of Image Processing and Pattern Recognition, Department of Automation, Shanghai Jiao Tong University (SJTU), China. I received my B.S. degree in the Department of Automation, SJTU. My research interests are adversarial learning in applications, machine learning. See my CV [here](https://drive.google.com/file/d/1KhOlC-7jzFW24zUUARxMNrgVwxxBXxy2/view?usp=sharing). I'm applying for Ph.D. positions.
 
 Education
 ------
@@ -30,10 +30,10 @@ Research
   Score-Based Query Attacks. *Annual Conference on Neural Information Processing Systems (NeurIPS)*, 2022. [[PDF](https://arxiv.org/abs/2205.12134)]
 + **Sizhe Chen**, Fan He, Xiaolin Huang\*, Kun Zhang. Relevance Attack on Detectors. *Pattern Recognition (PR)*, 2021. [[PDF](https://www.sciencedirect.com/science/article/pii/S0031320321006671)]
 + Tao Li, Yingwen Wu, **Sizhe Chen**, Kun Fang, Xiaolin Huang\*. Subspace Adversarial Training. *Conference on Computer Vision and Pattern Recognition (CVPR)*, **Oral (4%)**, 2022. [[PDF](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Subspace_Adversarial_Training_CVPR_2022_paper)]
-+ **Sizhe Chen**, Zhehao Huang, Qinghua Tao, Xiaolin Huang\*. QueryNet: Attack by Multi-Identity Surrogates. Submitted to *IEEE Transactions on Image Processing (TIP)*, 2022. [[PDF](https://arxiv.org/abs/2105.15010)]
-+ **Sizhe Chen**, Geng Yuan, Xinwen Cheng, Yifan Gong, Minghai Qin, Yanzhi Wang, Xiaolin Huang\*. Securing the Dataset by Effective and Efficient Self-Ensemble. Submitted to *International Conference on Learning Representations (ICLR)*, 2023. 
-+ Shutong Wu', **Sizhe Chen'**, Cihang Xie, Xiaolin Huang\*. One-Pixel Shortcut: On the Learning Preference of Deep Neural Networks. Submitted to *International Conference on Learning Representations (ICLR)*, 2023. [[PDF](https://arxiv.org/abs/2205.12141)]
-+ Yingwen Wu, **Sizhe Chen**, Kun Fang, Xiaolin Huang\*. Unifying Gradients to Improve Real-world Robustness for Deep Networks. Submitted to *ACM Transactions on Intelligent Systems and Technology (TIST)*, 2022. [[PDF](http://arxiv.org/abs/2208.06228)]
++ **Sizhe Chen**, Zhehao Huang, Qinghua Tao, Xiaolin Huang\*. QueryNet: Attack by Multi-Identity Surrogates. **Submitted** to *IEEE Transactions on Image Processing (TIP)*, 2022. [[PDF](https://arxiv.org/abs/2105.15010)]
++ **Sizhe Chen**, Geng Yuan, Xinwen Cheng, Yifan Gong, Minghai Qin, Yanzhi Wang, Xiaolin Huang\*. Self-Ensemble Protection: Training Checkpoints Are Good Data Protectors. Submitted to *International Conference on Learning Representations (ICLR)*, 2023. [[PDF](https://openreview.net/forum?id=9MO7bjoAfIA)]
++ Shutong Wu', **Sizhe Chen'**, Cihang Xie, Xiaolin Huang\*. One-Pixel Shortcut: On the Learning Preference of Deep Neural Networks. **Submitted** to *International Conference on Learning Representations (ICLR)*, 2023. [[PDF](https://openreview.net/forum?id=p7G8t5FVn2h)]
++ Yingwen Wu, **Sizhe Chen**, Kun Fang, Xiaolin Huang\*. Unifying Gradients to Improve Real-world Robustness for Deep Networks. **Submitted** to *ACM Transactions on Intelligent Systems and Technology (TIST)*, 2022. [[PDF](http://arxiv.org/abs/2208.06228)]
 
 Experience
 ------
@@ -49,7 +49,7 @@ Experience
 
 Awards
 ------
-+ National Scholarship (Top 2%), 2021.
++ National Scholarship (Top 1%), 2021 and 2022.
 + Extraordinary Bachelor's Thesis (Top 1%), 2020. [[News](https://news.sjtu.edu.cn/jdzh/20201102/133855.html)]
 + Outstanding Graduate in Shanghai Jiao Tong University (Top 10%), 2020. [[News](https://automation.sjtu.edu.cn/show/1081)]
 
