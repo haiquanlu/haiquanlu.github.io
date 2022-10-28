@@ -11,7 +11,7 @@ redirect_from:
   
 Biography
 ------
-I'm a third-year postgraduate student at the Institute of Image Processing and Pattern Recognition, Department of Automation, Shanghai Jiao Tong University (SJTU), China. I received my B.S. degree in the Department of Automation, SJTU. My research interests are adversarial learning in applications, machine learning. See my CV [here](https://drive.google.com/file/d/1KhOlC-7jzFW24zUUARxMNrgVwxxBXxy2/view?usp=sharing). I'm applying for Ph.D. positions.
+I'm a third-year postgraduate student at the Institute of Image Processing and Pattern Recognition, Shanghai Jiao Tong University (SJTU), China. I received my B.S. degree in the Department of Automation, SJTU. My research focuses on secure, robust, reliable, interpretable, and trustworthy machine learning. See my CV [here](https://drive.google.com/file/d/1KhOlC-7jzFW24zUUARxMNrgVwxxBXxy2/view?usp=sharing). I'm applying for Ph.D. positions (Fall 2023).
 
 Education
 ------
@@ -51,13 +51,13 @@ Experience
 Awards
 ------
 + National Scholarship (Top 1%), 2021 and 2022.
-+ Extraordinary Bachelor's Thesis (Top 1%), 2020. [[News](https://news.sjtu.edu.cn/jdzh/20201102/133855.html)]
-+ Outstanding Graduate in Shanghai Jiao Tong University (Top 10%), 2020. [[News](https://automation.sjtu.edu.cn/show/1081)]
++ SJTU Extraordinary Bachelor's Thesis (Top 1%), 2020. [[News](https://news.sjtu.edu.cn/jdzh/20201102/133855.html)]
++ SJTU Outstanding Graduate (Top 10%), 2020. [[News](https://automation.sjtu.edu.cn/show/1081)]
 
 Others
 ------
-+ Reviewer: [*IEEE TPAMI*](https://www.computer.org/csdl/journal/tp/2021/12/09600583/1yeDrH64Edq), *ICLR*, *ECCV*, *PR*, *IEEE ISBI*.
-+ Volunteer: Traffic·Future Scientific Competition, Shanghai International Half Marathon.
-+ Blood Donator: 1400cc.
++ Reviewer: [*TPAMI*](https://www.computer.org/csdl/journal/tp/2021/12/09600583/1yeDrH64Edq), *ICLR*, *ECCV*, *PR*, etc.
 + Programming: Python (PyTorch, Keras, TensorFlow), Matlab, C/C++, Verilog.
-+ English: TOFEL 107 (28+29+23+27), GRE 331 4.0
++ English: TOFEL 107 (28+29+23+27), GRE 331 (161+170+4.0).
++ Blood Donator: 1400cc.
++ An avid player of Super Mario Odyssey.
