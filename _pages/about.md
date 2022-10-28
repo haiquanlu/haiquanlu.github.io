@@ -11,7 +11,7 @@ redirect_from:
   
 Biography
 ------
-I'm a third-year postgraduate student at the Institute of Image Processing and Pattern Recognition, Shanghai Jiao Tong University (SJTU), China. I received my B.S. degree in the Department of Automation, SJTU. My research focuses on secure, robust, reliable, interpretable, and trustworthy machine learning. See my CV [here](https://drive.google.com/file/d/1KhOlC-7jzFW24zUUARxMNrgVwxxBXxy2/view?usp=sharing). I'm applying for Ph.D. positions (Fall 2023).
+I'm a third-year postgraduate student at the Institute of Image Processing and Pattern Recognition, Shanghai Jiao Tong University (SJTU), where I also received my B.S. degree. My research focuses on secure, robust, reliable, interpretable, and trustworthy machine learning. See my CV [here](https://drive.google.com/file/d/1KhOlC-7jzFW24zUUARxMNrgVwxxBXxy2/view?usp=sharing). I'm applying for Ph.D. positions (Fall 2023).
 
 Education
 ------
@@ -26,8 +26,8 @@ Education
 Research
 ------
 + **Sizhe Chen**, Zhehao Huang, Qinghua Tao, Yingwen Wu, Cihang Xie, Xiaolin Huang\*. Adversarial Attack on Attackers: Post-Process to Mitigate Black-Box
-  Score-Based Query Attacks. *Annual Conference on Neural Information Processing Systems (NeurIPS)*, 2022. [[PDF](https://neurips.cc/virtual/2022/poster/54907)]
-+ Tao Li, Yingwen Wu, **Sizhe Chen**, Kun Fang, Xiaolin Huang\*. Subspace Adversarial Training. *Conference on Computer Vision and Pattern Recognition (CVPR)*, **Oral (4%)**, 2022. [[PDF](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Subspace_Adversarial_Training_CVPR_2022_paper)]
+  Score-Based Query Attacks. *Annual Conference on Neural Information Processing Systems (NeurIPS)* (Scholar Award), 2022. [[PDF](https://neurips.cc/virtual/2022/poster/54907)]
++ Tao Li, Yingwen Wu, **Sizhe Chen**, Kun Fang, Xiaolin Huang\*. Subspace Adversarial Training. *Conference on Computer Vision and Pattern Recognition (CVPR)* (**Oral (4%)**), 2022. [[PDF](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Subspace_Adversarial_Training_CVPR_2022_paper)]
 + **Sizhe Chen**, Fan He, Xiaolin Huang\*, Kun Zhang. Relevance Attack on Detectors. *Pattern Recognition (PR)*, 2021. [[PDF](https://www.sciencedirect.com/science/article/pii/S0031320321006671)]
 + **Sizhe Chen**, Zhengbao He, Chengjin Sun, Jie Yang, Xiaolin Huang\*. Universal Adversarial Attack on Attention and the Resulting Dataset DAmageNet. *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*, 2020. [[PDF](https://ieeexplore.ieee.org/document/9238430)]
 + **Sizhe Chen**, Geng Yuan, Xinwen Cheng, Yifan Gong, Minghai Qin, Yanzhi Wang, Xiaolin Huang\*. Self-Ensemble Protection: Training Checkpoints Are Good Data Protectors. **Submitted** to *International Conference on Learning Representations (ICLR)*, 2023. [[PDF](https://openreview.net/forum?id=9MO7bjoAfIA)]
