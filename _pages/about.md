@@ -57,7 +57,7 @@ Awards
 
 Others
 ------
-+ Reviewer: [*TPAMI*](https://www.computer.org/csdl/journal/tp/2021/12/09600583/1yeDrH64Edq), *ICLR*, *ECCV*, *PR*, etc.
++ Reviewer: [*TPAMI*](https://www.computer.org/csdl/journal/tp/2021/12/09600583/1yeDrH64Edq), *CVPR*, *ICLR*, *ECCV*, *PR*, etc.
 + Programming: Python (PyTorch, Keras, TensorFlow), Matlab, C/C++, Verilog.
 + English: TOFEL 107 (28+29+23+27), GRE 331 (161+170+4.0).
 + Blood Donator: 1400cc.
