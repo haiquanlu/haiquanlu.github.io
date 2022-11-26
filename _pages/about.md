@@ -28,13 +28,13 @@ Research
 + **Sizhe Chen**, Zhehao Huang, Qinghua Tao, Yingwen Wu, Cihang Xie, Xiaolin Huang. Adversarial Attack on Attackers: Post-Process to Mitigate Black-Box
   Score-Based Query Attacks. *Annual Conference on Neural Information Processing Systems (NeurIPS)*, Scholar Award, 2022. [[PDF](https://neurips.cc/virtual/2022/poster/54907)]
 + **Sizhe Chen**, Zhengbao He, Chengjin Sun, Jie Yang, Xiaolin Huang. Universal Adversarial Attack on Attention and the Resulting Dataset DAmageNet. *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*, 2022. [[PDF](https://ieeexplore.ieee.org/document/9238430)]
-+ **Sizhe Chen**, Fan He, Xiaolin Huang\*, Kun Zhang. Relevance Attack on Detectors. *Pattern Recognition (PR)*, 2022. [[PDF](https://www.sciencedirect.com/science/article/pii/S0031320321006671)]
++ **Sizhe Chen**, Fan He, Xiaolin Huang, Kun Zhang. Relevance Attack on Detectors. *Pattern Recognition (PR)*, 2022. [[PDF](https://www.sciencedirect.com/science/article/pii/S0031320321006671)]
 + Tao Li, Yingwen Wu, **Sizhe Chen**, Kun Fang, Xiaolin Huang. Subspace Adversarial Training. *Conference on Computer Vision and Pattern Recognition (CVPR)*, **Oral (4%)**, 2022. [[PDF](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Subspace_Adversarial_Training_CVPR_2022_paper)]
 + Fan He, **Sizhe Chen**, Shuaiyi Li, Lu Zhou, Haiqin Zhang, Haixia Peng, Xiaolin Huang. Colonoscopic Image Synthesis for Polyp Detector Enhancement via GAN and Adversarial Training. *IEEE International Symposium on Biomedical Imaging (ISBI)*, 2021. [[PDF](https://ieeexplore.ieee.org/document/9434050)]
 + **Sizhe Chen**, Geng Yuan, Xinwen Cheng, Yifan Gong, Minghai Qin, Yanzhi Wang, Xiaolin Huang. Self-Ensemble Protection: Training Checkpoints Are Good Data Protectors. **Submitted** to *International Conference on Learning Representations (ICLR)*, 2023. [[PDF](https://openreview.net/forum?id=9MO7bjoAfIA)]
 + Shutong Wu\*, **Sizhe Chen\***, Cihang Xie, Xiaolin Huang. One-Pixel Shortcut: On the Learning Preference of Deep Neural Networks. **Submitted** to *International Conference on Learning Representations (ICLR)*, 2023. [[PDF](https://openreview.net/forum?id=p7G8t5FVn2h)]
 + **Sizhe Chen**, Qinghua Tao, Zhixing Ye, Xiaolin Huang. Measuring the Transferability of L_infty Attacks by the L_2 Norm . **Submitted** to *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2023. [[PDF](https://arxiv.org/abs/2102.10343)]
-+ **Sizhe Chen**, Zhehao Huang, Qinghua Tao, Xiaolin Huang. QueryNet: Attack by Multi-Identity Surrogates. **Submitted** to *IEEE Transactions on Image Processing (TIP)*, 2022. [[PDF](https://arxiv.org/abs/2105.15010)]
++ **Sizhe Chen**, Zhehao Huang, Qinghua Tao, Xiaolin Huang. QueryNet: Attack by Multi-Identity Surrogates. **Submitted** to *IEEE Transactions on Artificial Intelligence (TAI)*, 2022. [[PDF](https://arxiv.org/abs/2105.15010)]
 + Yingwen Wu, **Sizhe Chen**, Kun Fang, Xiaolin Huang. Unifying Gradients to Improve Real-world Robustness for Deep Networks. **Submitted** to *ACM Transactions on Intelligent Systems and Technology (TIST)*, 2022. [[PDF](http://arxiv.org/abs/2208.06228)]
 
 Experience
@@ -61,4 +61,3 @@ Others
 + Programming: Python (PyTorch, Keras, TensorFlow), Matlab, C/C++, Verilog.
 + English: TOFEL 107 (28+29+23+27), GRE 331 (161+170+4.0).
 + Blood Donator: 1400cc.
-+ An avid player of Super Mario Odyssey.
