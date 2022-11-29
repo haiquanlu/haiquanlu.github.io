@@ -11,14 +11,14 @@ redirect_from:
   
 Biography
 ------
-I'm a third-year postgraduate student at the Institute of Image Processing and Pattern Recognition, Shanghai Jiao Tong University (SJTU), where I also received my B.S. degree. My research focuses on secure, robust, reliable, interpretable, and trustworthy machine learning. See my CV [here](https://drive.google.com/file/d/1KhOlC-7jzFW24zUUARxMNrgVwxxBXxy2/view?usp=sharing). I'm applying for Ph.D. positions (Fall 2023).
+I'm a third-year postgraduate student at the Institute of Image Processing and Pattern Recognition, Shanghai Jiao Tong University (SJTU), where I also received my B.E. degree. My research focuses on secure, robust, reliable, interpretable, and trustworthy machine learning. See my CV [here](https://drive.google.com/file/d/1KhOlC-7jzFW24zUUARxMNrgVwxxBXxy2/view?usp=sharing). I'm applying for Ph.D. positions (Fall 2023).
 
 Education
 ------
-+ M.S. Student in Department of Automation, SJTU, 2020 - 2023.
++ M.E. Student in Department of Automation, SJTU, 2020 - 2023.
    + Supervisor: [Xiaolin Huang](http://www.pami.sjtu.edu.cn/en/xiaolin)
    + Thesis: Real-World Adversarial Attacks and Defenses
-+ B.S. Degree in Department of Automation, SJTU, 2016 - 2020.
++ B.E. Degree in Department of Automation, SJTU, 2016 - 2020.
    + Grade: 88.56 (5/95). [[Resources](https://github.com/AllenChen1998/SJTU-Automation-Materials)]
    + Machine Learning (Top 1), Artificial Intelligence (Top 1), Advanced Mathematics (1.2%).
    + Thesis: Semantic-Based Adversarial Attack and Its Transferability. [[PDF](https://sjcg.jwc.sjtu.edu.cn/375/3/3/Dissertation.html)], [[Defense](https://v.qq.com/x/page/p31356mbu5g.html)]
