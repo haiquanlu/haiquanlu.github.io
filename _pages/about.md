@@ -37,7 +37,7 @@ Preprints
 ------
 + **Sizhe Chen**, Geng Yuan, Xinwen Cheng, Yifan Gong, Minghai Qin, Yanzhi Wang, Xiaolin Huang. Self-Ensemble Protection: Training Checkpoints Are Good Data Protectors. Submitted to *International Conference on Learning Representations **(ICLR)***, 2023. [[PDF](https://openreview.net/forum?id=9MO7bjoAfIA)]
 + Shutong Wu\*, **Sizhe Chen\***, Cihang Xie, Xiaolin Huang. One-Pixel Shortcut: On the Learning Preference of Deep Neural Networks. Submitted to *International Conference on Learning Representations **(ICLR)***, 2023. [[PDF](https://openreview.net/forum?id=p7G8t5FVn2h)]
-+ **Sizhe Chen**, Qinghua Tao, Zhixing Ye, Xiaolin Huang. Measuring the Transferability of L_infty Attacks by the L_2 Norm . Submitted to *IEEE International Conference on Acoustics, Speech and Signal Processing **(ICASSP)***, 2023. [[PDF](https://arxiv.org/abs/2102.10343)]
++ **Sizhe Chen**, Qinghua Tao, Zhixing Ye, Xiaolin Huang. Measuring the Transferability of L_infty Attacks by the L_2 Norm. Submitted to *IEEE International Conference on Acoustics, Speech and Signal Processing **(ICASSP)***, 2023. [[PDF](https://arxiv.org/abs/2102.10343)]
 + **Sizhe Chen**, Zhehao Huang, Qinghua Tao, Xiaolin Huang. QueryNet: Attack by Multi-Identity Surrogates. Submitted to *IEEE Transactions on Artificial Intelligence **(TAI)***, 2022. [[PDF](https://arxiv.org/abs/2105.15010)]
 + Yingwen Wu, **Sizhe Chen**, Kun Fang, Xiaolin Huang. Unifying Gradients to Improve Real-world Robustness for Deep Networks. Submitted to *ACM Transactions on Intelligent Systems and Technology **(TIST)***, 2022. [[PDF](http://arxiv.org/abs/2208.06228)]
 
@@ -56,6 +56,7 @@ Experience
 Awards
 ------
 + SJTU Outstanding Graduate, 2023.
++ NeurIPS Scholar Award, 2022.
 + National Scholarship (Top 0.2% national-wide), 2022.
 + National Scholarship (Top 0.2% national-wide), 2021.
 + SJTU Extraordinary Bachelor's Thesis (Top 1%), 2020. [[News](https://news.sjtu.edu.cn/jdzh/20201102/133855.html)]
