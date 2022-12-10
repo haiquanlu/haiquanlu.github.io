@@ -55,12 +55,10 @@ Experience
 
 Awards
 ------
-+ SJTU Outstanding Graduate, 2023.
 + NeurIPS Scholar Award, 2022.
-+ National Scholarship (Top 0.2% national-wide), 2022.
-+ National Scholarship (Top 0.2% national-wide), 2021.
++ National Scholarship (Top 0.2% national-wide), 2021 and 2022.
 + SJTU Extraordinary Bachelor's Thesis (Top 1%), 2020. [[News](https://news.sjtu.edu.cn/jdzh/20201102/133855.html)]
-+ SJTU Outstanding Graduate, 2020. [[News](https://automation.sjtu.edu.cn/show/1081)]
++ SJTU Outstanding Graduate, 2020 and 2023. [[News](https://automation.sjtu.edu.cn/show/1081)]
 
 Others
 ------
