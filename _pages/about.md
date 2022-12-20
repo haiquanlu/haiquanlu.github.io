@@ -17,7 +17,7 @@ Publications
 ------
 + **Sizhe Chen**, Zhehao Huang, Qinghua Tao, Yingwen Wu, Cihang Xie, Xiaolin Huang. Adversarial Attack on Attackers: Post-Process to Mitigate Black-Box Score-Based Query Attacks. *Annual Conference on Neural Information Processing Systems (**NeurIPS**)*, 2022. [[PDF](https://neurips.cc/virtual/2022/poster/54907)]
 + **Sizhe Chen**, Zhengbao He, Chengjin Sun, Jie Yang, Xiaolin Huang. Universal Adversarial Attack on Attention and the Resulting Dataset DAmageNet. *IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**)*, 2022. [[PDF](https://ieeexplore.ieee.org/document/9238430)]
-+ **Sizhe Chen**, Fan He, Xiaolin Huang, Kun Zhang. Relevance Attack on Detectors. *Pattern Recognition **(PR)***, 2022. [[PDF](https://www.sciencedirect.com/science/article/pii/S0031320321006671)]
++ **Sizhe Chen**, Fan He, Xiaolin Huang, Kun Zhang. Relevance Attack on Detectors. *Pattern Recognition (**PR**)*, 2022. [[PDF](https://www.sciencedirect.com/science/article/pii/S0031320321006671)]
 + Tao Li, Yingwen Wu, **Sizhe Chen**, Kun Fang, Xiaolin Huang. Subspace Adversarial Training. *Conference on Computer Vision and Pattern Recognition (**CVPR**)*, **Oral (4%)**, 2022. [[PDF](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Subspace_Adversarial_Training_CVPR_2022_paper)]
 + Fan He, **Sizhe Chen**, Shuaiyi Li, Lu Zhou, Haiqin Zhang, Haixia Peng, Xiaolin Huang. Colonoscopic Image Synthesis for Polyp Detector Enhancement via GAN and Adversarial Training. *IEEE International Symposium on Biomedical Imaging (**ISBI**)*, 2021. [[PDF](https://ieeexplore.ieee.org/document/9434050)]
 + Chengjin Sun, **Sizhe Chen**, Jia Cai, Xiaolin Huang. Type I Attack for Generative Models. *IEEE International Conference on Image Processing (**ICIP**)*, 2020. [[PDF](https://ieeexplore.ieee.org/document/9191032)]
@@ -49,11 +49,12 @@ Education
 
 Other Experience
 ------
++ Reviewer: [*TPAMI*](https://www.computer.org/csdl/journal/tp/2021/12/09600583/1yeDrH64Edq), *CVPR*, *ICLR*, *ECCV*, *PR*, etc.
 + Visiting Student: Northeastern University, 2022.
    + My job: leader of a data protection project
    + Supervisor: [Yanzhi Wang](https://web.northeastern.edu/yanzhiwang)
 + Algorithm Intern: Tencent Zhuque Lab, 2020.
-   + My job: a main contributor of [AI Security Matrix](https://aisecmatrix.org/en)
+   + My job: a main contributor of [AI Security Matrix](https://aisecmatrix.org/en) report.
    + Achievements: two patents as the first inventor.
 + Club President: Piano Association of SJTU, 2018.
    + My job: Chief director of 3 concerts, each with 1K+ live viewers.
@@ -61,4 +62,3 @@ Other Experience
 + Exchange Student: University of Washington, 2017.
    + Program: Electrical Engineering International Intensive.
    + Courses: Circuit Theory, Introduction to C and Microprocessors.
-+ Reviewer: [*TPAMI*](https://www.computer.org/csdl/journal/tp/2021/12/09600583/1yeDrH64Edq), *CVPR*, *ICLR*, *ECCV*, *PR*, etc.
