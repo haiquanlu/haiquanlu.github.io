@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &MrSizheChen
 facebook:
   username               :
   app_id                 :
@@ -83,7 +83,7 @@ author:
   name             : "Sizhe Chen"
   avatar           : "profile.jpg"
   bio              : "Master's Student, SJTU"
-  location         : "Shanghai, China"
+  location         : "Shanghai"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=X-JmE9UAAAAJ"
   email            : "sizhe.chen@sjtu.edu.cn"
@@ -112,7 +112,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  cv               : "https://drive.google.com/file/d/1KhOlC-7jzFW24zUUARxMNrgVwxxBXxy2/view?usp=sharing"
 
 # Reading Files
 include:
