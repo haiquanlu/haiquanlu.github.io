@@ -47,7 +47,7 @@ Education
    + Grades: 89.17 (5/95). Calculus (Top 1.2%), ML (Top 1), AI (Top 1). [[Resources](https://github.com/AllenChen1998/SJTU-Automation-Materials)]
    + Thesis: Semantic-Based Adversarial Attack and Its Transferability. [[PDF](https://sjcg.jwc.sjtu.edu.cn/375/3/3/Dissertation.html)], [[Defense](https://v.qq.com/x/page/p31356mbu5g.html)]
 
-Other Experience
+Experience
 ------
 + Reviewer: [*TPAMI*](https://www.computer.org/csdl/journal/tp/2021/12/09600583/1yeDrH64Edq), *CVPR*, *ICLR*, *ECCV*, *PR*, etc.
 + Visiting Student: Northeastern University, 2022.
