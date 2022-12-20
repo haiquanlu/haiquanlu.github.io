@@ -11,16 +11,17 @@ redirect_from:
   
 Biography
 ------
-I'm a final-year master's student at Department of Automation, Shanghai Jiao Tong University (SJTU), supervised by Prof. [Xiaolin Huang](http://www.pami.sjtu.edu.cn/en/xiaolin). I am also fortunate to work with Prof. [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/index.html), [Yanzhi Wang](https://web.northeastern.edu/yanzhiwang), and [Cihang Xie](https://cihangxie.github.io). My research goal is to build trustworthy machine learning that is highly applicable in real-world scenarios. Towards this vision, I am particularly interested in adversaries because they could well quantify the DNN security, robustness, and reliability and help interpret what DNNs actually learn. Specifically, I try to answer how and to what degree would DNNs be hurt by adversaries with different levels of permission. See my CV [here](https://drive.google.com/file/d/1KhOlC-7jzFW24zUUARxMNrgVwxxBXxy2/view?usp=sharing). 
+I'm a final-year master's student at Shanghai Jiao Tong University (SJTU) supervised by Prof. [Xiaolin Huang](http://www.pami.sjtu.edu.cn/en/xiaolin). I am also fortunate to work with Prof. [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/index.html), [Yanzhi Wang](https://web.northeastern.edu/yanzhiwang), and [Cihang Xie](https://cihangxie.github.io). My research goal is to build trustworthy machine learning that is highly applicable in real-world scenarios. Towards this vision, I am particularly interested in adversaries because they could well quantify the DNN security, robustness, and reliability and help interpret what DNNs actually learn. Specifically, I try to answer how and to what degree would DNNs be hurt by adversaries with different levels of permission. See my CV [here](https://drive.google.com/file/d/1KhOlC-7jzFW24zUUARxMNrgVwxxBXxy2/view?usp=sharing). 
 
 Education
 ------
-+ M.E. in Department of Automation, SJTU, 2020 - 2023.
-   + Supervisor: [Xiaolin Huang](http://www.pami.sjtu.edu.cn/en/xiaolin)
++ M.E., SJTU, 2020 - 2023.
+   + Major: Control Science and Engineeering
+   + Grades: 3.78/4.00
    + Thesis: Real-World Adversarial Attacks and Defenses
-+ B.E. in Department of Automation, SJTU, 2016 - 2020.
-   + Grade: 89.17, 3.80/4.30, 5/95. [[Resources](https://github.com/AllenChen1998/SJTU-Automation-Materials)]
-   + Machine Learning (Top 1), Artificial Intelligence (Top 1), Advanced Mathematics (1.2%).
++ B.E., SJTU, 2016 - 2020.
+   + Major: Automation (Artificial Intelligence)
+   + Grades: 89.17 (5/95). ML (Top 1), AI (Top 1), Calculus (Top 1.2%). [[Resources](https://github.com/AllenChen1998/SJTU-Automation-Materials)]
    + Thesis: Semantic-Based Adversarial Attack and Its Transferability. [[PDF](https://sjcg.jwc.sjtu.edu.cn/375/3/3/Dissertation.html)], [[Defense](https://v.qq.com/x/page/p31356mbu5g.html)]
 
 Publications
