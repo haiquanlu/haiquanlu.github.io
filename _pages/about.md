@@ -11,7 +11,7 @@ redirect_from:
   
 Biography
 ------
-I'm a final-year master's student at Shanghai Jiao Tong University (SJTU) supervised by Prof. [Xiaolin Huang](http://www.pami.sjtu.edu.cn/en/xiaolin). I am also fortunate to work with Prof. [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/index.html), [Yanzhi Wang](https://web.northeastern.edu/yanzhiwang), and [Cihang Xie](https://cihangxie.github.io). My research goal is to build trustworthy machine learning that is highly applicable in real-world scenarios. Towards this vision, I am particularly interested in adversaries because they could well quantify the DNN security, robustness, and reliability and help interpret what DNNs actually learn. See my CV [here](https://drive.google.com/file/d/1KhOlC-7jzFW24zUUARxMNrgVwxxBXxy2/view?usp=sharing). 
+Hi! I am a final-year master's student at [Shanghai Jiao Tong University (SJTU)](http://en.sjtu.edu.cn) supervised by Prof. [Xiaolin Huang](http://www.pami.sjtu.edu.cn/en/xiaolin). I am also fortunate to work with Prof. [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/index.html), [Yanzhi Wang](https://web.northeastern.edu/yanzhiwang), and [Cihang Xie](https://cihangxie.github.io). My research goal is to build trustworthy machine learning that is highly applicable in real-world scenarios. I am particularly interested in adversaries because they could well quantify the model security, robustness, and reliability and interpret what DNNs learn. 
 
 Publications
 ------
