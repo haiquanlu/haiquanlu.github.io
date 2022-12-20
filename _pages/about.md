@@ -56,7 +56,7 @@ Experience
 + Algorithm Intern: Tencent Zhuque Lab, 2020.
    + A main contributor of the [AI Security Matrix](https://aisecmatrix.org/en) report.
    + Two patents as the first inventor.
-+ Club President: Piano Association of SJTU, 2018.
++ Club President: SJTU Piano Association, 2018.
    + Chief director of 3 concerts, each with 1K+ live viewers.
    + 10+ piano performances, mainly personally adapted songs.
 + Exchange Student: University of Washington, 2017.
