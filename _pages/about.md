@@ -51,14 +51,14 @@ Other Experience
 ------
 + Reviewer: [*TPAMI*](https://www.computer.org/csdl/journal/tp/2021/12/09600583/1yeDrH64Edq), *CVPR*, *ICLR*, *ECCV*, *PR*, etc.
 + Visiting Student: Northeastern University, 2022.
-   + My job: leader of a data protection project
-   + Supervisor: [Yanzhi Wang](https://web.northeastern.edu/yanzhiwang)
+   + Leader of a data protection project [[PDF](https://openreview.net/forum?id=9MO7bjoAfIA)].
+   + Supervisor: [Yanzhi Wang](https://web.northeastern.edu/yanzhiwang).
 + Algorithm Intern: Tencent Zhuque Lab, 2020.
-   + My job: a main contributor of [AI Security Matrix](https://aisecmatrix.org/en) report.
-   + Achievements: two patents as the first inventor.
+   + A main contributor of the [AI Security Matrix](https://aisecmatrix.org/en) report.
+   + Two patents as the first inventor.
 + Club President: Piano Association of SJTU, 2018.
-   + My job: Chief director of 3 concerts, each with 1K+ live viewers.
-   + 10+ personal piano performance.
+   + Chief director of 3 concerts, each with 1K+ live viewers.
+   + 10+ piano performances, mainly Animation adaptation.
 + Exchange Student: University of Washington, 2017.
    + Program: Electrical Engineering International Intensive.
    + Courses: Circuit Theory, Introduction to C and Microprocessors.
