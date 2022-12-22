@@ -58,7 +58,7 @@ Experience
    + Two patents as the first inventor.
 + Club President: SJTU Piano Association, 2018.
    + Chief director of 3 concerts, each with 1K+ live viewers.
-   + 10+ piano performances, mainly personally adapted songs.
+   + 10+ piano performances, mostly personal arrangements.
 + Exchange Student: University of Washington, 2017.
    + Program: Electrical Engineering International Intensive.
    + Courses: Circuit Theory, Introduction to C and Microprocessors.
