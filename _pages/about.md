@@ -34,8 +34,8 @@ Awards
 ------
 + NeurIPS Scholar Award, 2022.
 + National Scholarship (Top 0.2% national-wide), 2021 and 2022.
-+ SJTU Extraordinary Bachelor's Thesis (Top 1%), 2020. [[News](https://news.sjtu.edu.cn/jdzh/20201102/133855.html)]
-+ SJTU Outstanding Graduate, 2020 and 2023. [[News](https://automation.sjtu.edu.cn/show/1081)]
++ SJTU Extraordinary Bachelor's Thesis (Top 1%), 2020.
++ SJTU Outstanding Graduate, 2020 and 2023.
 
 Education
 ------
@@ -44,7 +44,7 @@ Education
    + Thesis: Neural Network Attackers with Different Permissions
 + Bachelor of Engineering, Shanghai Jiao Tong University, 2016 - 2020.
    + Major: Automation (Artificial Intelligence)
-   + Grades: 89.17 (5/95). Calculus (Top 1.2%), Machine Learning (Top 1), Artificial Intelligence (Top 1).
+   + Grades: 89.17 (5/95). Calculus (Top 1.2%), ML (Top 1), AI (Top 1). [[Resources](https://github.com/Sizhe-Chen/SJTU-Automation-Materials)]
    + Thesis: Semantic-Based Adversarial Attack and Its Transferability. 
 
 Experience
