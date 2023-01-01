@@ -18,7 +18,7 @@ Publications
 + **Sizhe Chen**, Zhehao Huang, Qinghua Tao, Yingwen Wu, Cihang Xie, Xiaolin Huang. Adversarial Attack on Attackers: Post-Process to Mitigate Black-Box Score-Based Query Attacks. *Annual Conference on Neural Information Processing Systems (**NeurIPS**)*, 2022. [[PDF](https://neurips.cc/virtual/2022/poster/54907)]
 + **Sizhe Chen**, Zhengbao He, Chengjin Sun, Jie Yang, Xiaolin Huang. Universal Adversarial Attack on Attention and the Resulting Dataset DAmageNet. *IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**)*, 2022. [[PDF](https://ieeexplore.ieee.org/document/9238430)]
 + **Sizhe Chen**, Fan He, Xiaolin Huang, Kun Zhang. Relevance Attack on Detectors. *Pattern Recognition (**PR**)*, 2022. [[PDF](https://www.sciencedirect.com/science/article/pii/S0031320321006671)]
-+ Tao Li, Yingwen Wu, **Sizhe Chen**, Kun Fang, Xiaolin Huang. Subspace Adversarial Training. *Conference on Computer Vision and Pattern Recognition (**CVPR**)*, **Oral (4%)**, 2022. [[PDF](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Subspace_Adversarial_Training_CVPR_2022_paper)]
++ Tao Li, Yingwen Wu, **Sizhe Chen**, Kun Fang, Xiaolin Huang. Subspace Adversarial Training. *The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) (**CVPR**)*, **Oral (4%)**, 2022. [[PDF](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Subspace_Adversarial_Training_CVPR_2022_paper)]
 + Fan He, **Sizhe Chen**, Shuaiyi Li, Lu Zhou, Haiqin Zhang, Haixia Peng, Xiaolin Huang. Colonoscopic Image Synthesis for Polyp Detector Enhancement via GAN and Adversarial Training. *IEEE International Symposium on Biomedical Imaging (**ISBI**)*, 2021. [[PDF](https://ieeexplore.ieee.org/document/9434050)]
 + Chengjin Sun, **Sizhe Chen**, Jia Cai, Xiaolin Huang. Type I Attack for Generative Models. *IEEE International Conference on Image Processing (**ICIP**)*, 2020. [[PDF](https://ieeexplore.ieee.org/document/9191032)]
 
@@ -41,11 +41,11 @@ Education
 ------
 + Master of Engineering, Shanghai Jiao Tong University, 2020 - 2023.
    + Major: Control Science and Engineeering
-   + Thesis: Real-World Adversarial Attacks and Defenses
+   + Thesis: Neural Network Attackers with Different Permissions
 + Bachelor of Engineering, Shanghai Jiao Tong University, 2016 - 2020.
    + Major: Automation (Artificial Intelligence)
-   + Grades: 89.17 (5/95). Calculus (Top 1.2%), ML (Top 1), AI (Top 1). [[Resources](https://github.com/AllenChen1998/SJTU-Automation-Materials)]
-   + Thesis: Semantic-Based Adversarial Attack and Its Transferability. [[PDF](https://sjcg.jwc.sjtu.edu.cn/375/3/3/Dissertation.html)], [[Defense](https://v.qq.com/x/page/p31356mbu5g.html)]
+   + Grades: 89.17 (5/95). Calculus (Top 1.2%), Machine Learning (Top 1), Artificial Intelligence (Top 1).
+   + Thesis: Semantic-Based Adversarial Attack and Its Transferability. 
 
 Experience
 ------
