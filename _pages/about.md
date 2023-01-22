@@ -55,7 +55,7 @@ Experience
    + Leader of a data protection project [[PDF](https://openreview.net/forum?id=9MO7bjoAfIA)].
    + Supervisor: [Yanzhi Wang](https://web.northeastern.edu/yanzhiwang).
 + Algorithm Intern: Tencent Zhuque Lab, 2020.
-   + Main contributor of the [AI Security Matrix](https://aisecmatrix.org/en) mentored by Prof. [Baoyuan Wu][https://sites.google.com/site/baoyuanwu2015/home].
+   + Main contributor of the [AI Security Matrix](https://aisecmatrix.org/en) mentored by Prof. [Baoyuan Wu](https://sites.google.com/site/baoyuanwu2015/home).
    + First inventor of two patents.
 + Club President: SJTU Piano Association, 2018.
    + Chief director of 3 concerts, each with 1K+ live viewers.
