@@ -45,8 +45,8 @@ Education
    + Thesis: Neural Network Attackers with Different Permissions
 + Bachelor of Engineering, Shanghai Jiao Tong University, 2016 - 2020.
    + Major: Automation (Artificial Intelligence)
-   + Grades: 89.17 (5/95). Calculus (Top 1.2%), ML (Top 1), AI (Top 1). [[Resources](https://github.com/Sizhe-Chen/SJTU-Automation-Materials)]
-   + Thesis: Semantic-Based Adversarial Attack and Its Transferability. 
+   + Grades: 89.17 (5/95). Calculus (Top 1.2%), ML (Top 1), AI (Top 1) [[Resources](https://github.com/Sizhe-Chen/SJTU-Automation-Materials)]
+   + Thesis: Semantic-Based Adversarial Attack and Its Transferability 
 
 Experience
 ------
@@ -55,11 +55,11 @@ Experience
    + Leader of a data protection project [[PDF](https://openreview.net/forum?id=9MO7bjoAfIA)].
    + Supervisor: [Yanzhi Wang](https://web.northeastern.edu/yanzhiwang).
 + Algorithm Intern: Tencent Zhuque Lab, 2020.
-   + A main contributor of the [AI Security Matrix](https://aisecmatrix.org/en) report.
-   + Two patents as the first inventor.
+   + Main contributor of the [AI Security Matrix](https://aisecmatrix.org/en) mentored by Prof. [Baoyuan Wu][https://sites.google.com/site/baoyuanwu2015/home].
+   + First inventor of two patents.
 + Club President: SJTU Piano Association, 2018.
    + Chief director of 3 concerts, each with 1K+ live viewers.
-   + 10+ piano performances, mostly personal arrangements.
+   + Piano performer of 10+ times on stage, mostly personal arrangements.
 + Exchange Student: University of Washington, 2017.
    + Program: Electrical Engineering International Intensive.
    + Courses: Circuit Theory, Introduction to C and Microprocessors.
