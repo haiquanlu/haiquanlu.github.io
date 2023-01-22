@@ -11,7 +11,7 @@ redirect_from:
   
 Biography
 ------
-Hi! I am a final-year master's student at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn) (SJTU) supervised by Prof. [Xiaolin Huang](http://www.pami.sjtu.edu.cn/en/xiaolin). I am also fortunate to work with Prof. [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/index.html), [Yanzhi Wang](https://web.northeastern.edu/yanzhiwang), and [Cihang Xie](https://cihangxie.github.io). My research goal is to build trustworthy machine learning that is highly applicable in real-world scenarios. I am particularly interested in adversaries because they could well quantify the model security, robustness, and reliability and interpret what DNNs actually learn. 
+Hi! I am a final-year Master's student supervised by Prof. [Xiaolin Huang](http://www.pami.sjtu.edu.cn/en/xiaolin) at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn) (SJTU), where I also got my Bachelor's degree. I am also fortunate to work with Prof. [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/index.html), [Yanzhi Wang](https://web.northeastern.edu/yanzhiwang), and [Cihang Xie](https://cihangxie.github.io). My research goal is to build trustworthy machine learning that is highly applicable in real-world scenarios. I am particularly interested in adversaries because they could well quantify the model security, robustness, and reliability and interpret what DNNs actually learn. 
 
 Publications
 ------
@@ -38,28 +38,12 @@ Awards
 + SJTU Extraordinary Bachelor's Thesis (Top 1%), 2020.
 + SJTU Outstanding Graduate, 2020 and 2023.
 
-Education
-------
-+ Master of Engineering, Shanghai Jiao Tong University, 2020 - 2023.
-   + Major: Control Science and Engineeering
-   + Thesis: Neural Network Attackers with Different Permissions
-+ Bachelor of Engineering, Shanghai Jiao Tong University, 2016 - 2020.
-   + Major: Automation (Artificial Intelligence)
-   + Grades: 89.17 (5/95). Calculus (Top 1.2%), ML (Top 1), AI (Top 1) [[Resources](https://github.com/Sizhe-Chen/SJTU-Automation-Materials)]
-   + Thesis: Semantic-Based Adversarial Attack and Its Transferability 
-
 Experience
 ------
 + Reviewer: [*TPAMI*](https://www.computer.org/csdl/journal/tp/2021/12/09600583/1yeDrH64Edq), *CVPR*, *ICLR*, *ECCV*, *PR*, etc.
-+ Visiting Student: Northeastern University, 2022.
-   + Leader of a data protection project [[PDF](https://openreview.net/forum?id=9MO7bjoAfIA)].
-   + Supervisor: [Yanzhi Wang](https://web.northeastern.edu/yanzhiwang).
 + Algorithm Intern: Tencent Zhuque Lab, 2020.
    + Main contributor of the [AI Security Matrix](https://aisecmatrix.org/en) mentored by Prof. [Baoyuan Wu](https://sites.google.com/site/baoyuanwu2015/home).
    + First inventor of two patents.
 + Club President: SJTU Piano Association, 2018.
    + Chief director of 3 concerts, each with 1K+ live viewers.
    + Piano performer of 10+ times on stage, mostly personal arrangements.
-+ Exchange Student: University of Washington, 2017.
-   + Program: Electrical Engineering International Intensive.
-   + Courses: Circuit Theory, Introduction to C and Microprocessors.
