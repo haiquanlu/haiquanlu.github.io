@@ -43,6 +43,10 @@ Awards
 + SJTU Extraordinary Bachelor's Thesis (Top 1%), 2020.
 + SJTU Outstanding Graduate, 2020 and 2023.
 
+Patents
+------
++ **陈思哲**, 黄哲昊, 陶清华, 吴颖雯, 谢慈航, 杨杰, 黄晓霖. 一种后处理对抗防御方法及系统
+
 Experience
 ------
 + Reviewer: [*TPAMI*](https://www.computer.org/csdl/journal/tp/2021/12/09600583/1yeDrH64Edq), *CVPR*, *ICCV*, *ECCV*, *ICLR*, *PR*, etc.
