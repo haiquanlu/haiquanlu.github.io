@@ -11,7 +11,7 @@ redirect_from:
   
 Biography
 ------
-Hi! I am an incoming Ph.D. student of Department of EECS, University of California, Berkeley, supervised by Prof. [David Wagner](https://people.eecs.berkeley.edu/~daw). Previously, I got my B.Eng. and M.Eng. degree from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn) (SJTU) at 2020 and 2023, respectively. My research goal is to build trustworthy machine learning that is highly applicable in real-world scenarios. I am currently interested in using training dynamics to interpret deep neural networks. Please email me if you have any questions, or if you are interested in a research collaboration.
+Hi! I am an incoming Ph.D. student of [Department of EECS](https://eecs.berkeley.edu), [UC Berkeley](https://www.berkeley.edu), where I am advised by Prof. [David Wagner](https://people.eecs.berkeley.edu/~daw). Previously, I got my M.Eng. and E.Eng. degree from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn) at 2023 and 2020. My research goal is to build trustworthy machine learning that is highly applicable in real-world scenarios. I am currently interested in using training dynamics to interpret deep neural networks. Please email me if you have any questions, or if you are interested in a research collaboration.
 
 Research
 ------
