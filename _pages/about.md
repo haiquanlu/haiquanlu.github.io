@@ -21,12 +21,11 @@ Research
 + **Sizhe Chen**, Zhehao Huang, Qinghua Tao, Xiaolin Huang. Query Attack by Multi-Identity Surrogates. *IEEE Transactions on Artificial Intelligence (**TAI**)*, 2023. [[PDF](https://arxiv.org/abs/2105.15010)]
 + **Sizhe Chen**, Qinghua Tao, Zhixing Ye, Xiaolin Huang. Measuring the Transferability of L_infty Attacks by the L_2 Norm. *IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**)*, 2023. [[PDF](https://arxiv.org/abs/2102.10343)]
 + Zhengbao He, Tao Li, **Sizhe Chen**, Xiaolin Huang. Investigating Catastrophic Overfitting in Fast Adversarial Training: A Self-fitting Perspective. *CVPR Workshop of Adversarial Machine Learning on Computer Vision: Art of Robustness (CVPRW)*, 2023. [[PDF](https://arxiv.org/abs/2302.11963)]
-+ Yingwen Wu, **Sizhe Chen**, Kun Fang, Xiaolin Huang. Unifying Gradients to Improve Real-world Robustness for Deep Networks. Preprint, 2023. [[PDF](http://arxiv.org/abs/2208.06228)]
 + **Sizhe Chen**, Zhehao Huang, Qinghua Tao, Yingwen Wu, Cihang Xie, Xiaolin Huang. Adversarial Attack on Attackers: Post-Process to Mitigate Black-Box Score-Based Query Attacks. *Annual Conference on Neural Information Processing Systems (**NeurIPS**)*, 2022. [[PDF](https://neurips.cc/virtual/2022/poster/54907)]
 + **Sizhe Chen**, Zhengbao He, Chengjin Sun, Jie Yang, Xiaolin Huang. Universal Adversarial Attack on Attention and the Resulting Dataset DAmageNet. *IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**)*, 2022. [[PDF](https://ieeexplore.ieee.org/document/9238430)]
 + Tao Li, Yingwen Wu, **Sizhe Chen**, Kun Fang, Xiaolin Huang. Subspace Adversarial Training. *The IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)*, **Oral (4%)**, 2022. [[PDF](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Subspace_Adversarial_Training_CVPR_2022_paper)]
 + **Sizhe Chen**, Fan He, Xiaolin Huang, Kun Zhang. Relevance Attack on Detectors. *Pattern Recognition (**PR**)*, 2022. [[PDF](https://www.sciencedirect.com/science/article/pii/S0031320321006671)]
-
++ Yingwen Wu, **Sizhe Chen**, Kun Fang, Xiaolin Huang. Unifying Gradients to Improve Real-world Robustness for Deep Networks. Preprint, 2023. [[PDF](http://arxiv.org/abs/2208.06228)]
 
 Awards
 ------
