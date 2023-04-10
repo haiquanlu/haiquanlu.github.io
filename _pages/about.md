@@ -38,4 +38,4 @@ Awards
 
 Services
 ------
-+ Reviewer: ICCV'23, CVPR'23, ICLR'23, ECCV'22, TPAMI, PR, etc.
++ Reviewer: NeurIPS'23, ICCV'23, CVPR'23, ICLR'23, ECCV'22, TPAMI, PR, etc.
