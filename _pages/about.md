@@ -11,7 +11,7 @@ redirect_from:
   
 Biography
 ------
-Hi! I am an incoming Ph.D. student of [Department of EECS](https://eecs.berkeley.edu), [UC Berkeley](https://www.berkeley.edu). Previously, I got my M.Eng. (2023) and B.Eng. (2020) degree from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn), where I am fortunate to work with Prof. [Xiaolin Huang](http://www.pami.sjtu.edu.cn/en/xiaolin), [Cihang Xie](https://cihangxie.github.io), [Yanzhi Wang](https://web.northeastern.edu/yanzhiwang), and [Kun Zhang](http://www.andrew.cmu.edu/user/kunz1/index.html). My research goal is to build trustworthy machine learning that is highly applicable in real-world scenarios. I am currently interested in using training dynamics to interpret deep neural networks. Feel free to email me if you have any questions, or if you are interested in a research collaboration.
+Hi! I am an incoming Ph.D. student of [Department of EECS](https://eecs.berkeley.edu), [UC Berkeley](https://www.berkeley.edu). Previously, I got my M.Eng. (2023) and B.Eng. (2020) degree from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn), where I am fortunate to work with Prof. [Xiaolin Huang](http://www.pami.sjtu.edu.cn/en/xiaolin), [Cihang Xie](https://cihangxie.github.io), [Yanzhi Wang](https://web.northeastern.edu/yanzhiwang), and [Kun Zhang](http://www.andrew.cmu.edu/user/kunz1/index.html). My research goal is to build trustworthy machine learning by interpreting how deep neural networks learn from a theoretical perspective. The mechanisms about how the model involves during training would answer why the model fails in some cases, how to train large models, how to collect and annotate data, and how to improve the AI robustness & reliability.
 
 Publications
 ------
