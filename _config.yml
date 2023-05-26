@@ -12,8 +12,8 @@ title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://Sizhe-Chen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/sizhe.chen.homepage" # the subpath of your site, e.g. "/blog"
-repository               : "Sizhe-Chen/sizhe.chen.homepage"
+baseurl                  : "/" #"/sizhe.chen.homepage" # the subpath of your site, e.g. "/blog"
+repository               : "/" #"Sizhe-Chen/sizhe.chen.homepage"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -85,9 +85,9 @@ author:
   bio              : "Ph.D. Student, UCB"
   location         : "Berkeley, CA, USA"
   employer         :
-  #googlescholar    : "https://scholar.google.com/citations?user=X-JmE9UAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=X-JmE9UAAAAJ"
   email            : "sizhe.chen@berkeley.edu"
-  #cv               : "https://drive.google.com/file/d/19pD0adE6L6DUZSdDc3w7BBrY2HKM3GkS/view?usp=sharing"
+  cv               : "https://drive.google.com/file/d/19pD0adE6L6DUZSdDc3w7BBrY2HKM3GkS/view?usp=sharing"
   piano            : "https://mp.weixin.qq.com/s/E4ytAAMeRkbODAUqZpq92Q"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  #github           : "Sizhe-Chen"
+  github           : "Sizhe-Chen"
   google_plus      :
   keybase          :
   instagram        :
@@ -113,7 +113,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  #twitter          : MrSizheChen
+  twitter          : MrSizheChen
   thesis           : # https://drive.google.com/file/d/1ziktI_byIkMB2dQvFF30QhhI53rvM-NX/view?usp=sharing
   orcid            : # "https://orcid.org/0000-0003-3274-6926"
 
