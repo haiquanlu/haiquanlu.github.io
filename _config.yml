@@ -87,8 +87,8 @@ author:
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=lp5ujPsAAAAJ"
   email            : "sizhe.chen@berkeley.edu"
-  #cv               : "https://drive.google.com/file/d/1UmHL5TfvXIGuNRIPX9DHT_LwRCu1Hkf1/view?usp=sharing"
-  piano            : "https://mp.weixin.qq.com/s/E4ytAAMeRkbODAUqZpq92Q"
+  cv               : "https://drive.google.com/file/d/1UmHL5TfvXIGuNRIPX9DHT_LwRCu1Hkf1/view?usp=sharing"
+  #piano            : "https://mp.weixin.qq.com/s/E4ytAAMeRkbODAUqZpq92Q"
   uri              :
   bitbucket        :
   codepen          :
@@ -99,10 +99,10 @@ author:
   github           : "Sizhe-Chen"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : _sizhe_chen_
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
