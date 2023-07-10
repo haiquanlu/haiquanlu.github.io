@@ -11,7 +11,7 @@ redirect_from:
   
 Biography
 ------
-Hi! I am an incoming Ph.D. student of [Department of EECS](https://eecs.berkeley.edu), [UC Berkeley](https://www.berkeley.edu), where I would be advised by Prof. [David Wagner](https://people.eecs.berkeley.edu/~daw). Previously, I got my M.Eng. (2023) and B.Eng. (2020) degree from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn), where I am fortunate to work with Prof. [Xiaolin Huang](http://www.pami.sjtu.edu.cn/en/xiaolin), [Cihang Xie](https://cihangxie.github.io), [Yanzhi Wang](https://web.northeastern.edu/yanzhiwang), and [Kun Zhang](http://www.andrew.cmu.edu/user/kunz1/index.html). My research goal is to build trustworthy machine learning that is highly applicable in real-world scenarios. I am currently interested in using training dynamics to interpret deep neural networks. Feel free to email me if you have any questions, or if you are interested in a research collaboration.
+Hi! I am a first-year Ph.D. student of [Department of EECS](https://eecs.berkeley.edu), [UC Berkeley](https://www.berkeley.edu), where I am fortunately advised by Prof. [David Wagner](https://people.eecs.berkeley.edu/~daw). Previously, I got my M.Eng. (2023) and B.Eng. (2020) degree from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn), where I am fortunate to work with Prof. [Xiaolin Huang](http://www.pami.sjtu.edu.cn/en/xiaolin), [Cihang Xie](https://cihangxie.github.io), [Yanzhi Wang](https://web.northeastern.edu/yanzhiwang), and [Kun Zhang](http://www.andrew.cmu.edu/user/kunz1/index.html). I am interested in building trustworthy machine learning that is highly applicable in real-world scenarios. 
 
 Research
 ------
@@ -29,13 +29,11 @@ Research
 
 Awards
 ------
-+ ICLR Travel Support, 2023.
-+ NeurIPS Scholar Award, 2022.
++ Departmental Fellowship of EECS, UC Berkeley, 2023.
++ Travel Support in NeurIPS'22, ICLR'23.
 + National Scholarship (Top 0.2% national-wide), 2021 and 2022.
-+ SJTU Extraordinary Bachelor's Thesis (Top 1%), 2020.
-+ SJTU Outstanding Graduate, 2020 and 2023.
-
++ Extraordinary Bachelor's Thesis (Top 1% in Shanghai Jiao Tong University), 2020.
 
 Services
 ------
-+ Reviewer: NeurIPS'23, ICCV'23, CVPR'23, ICLR'23, ECCV'22, TPAMI, PR, etc.
++ Reviewer: NeurIPS'23, ICCV'23, CVPR'23, ICLR'23, ECCV'22, TPAMI, MACH, PR, etc.
