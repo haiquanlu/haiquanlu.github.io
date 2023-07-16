@@ -11,10 +11,10 @@ redirect_from:
   
 Biography
 ------
-Hi! I am a first-year Ph.D. student of [Department of EECS](https://eecs.berkeley.edu), [UC Berkeley](https://www.berkeley.edu), where I am fortunately advised by Prof. [David Wagner](https://people.eecs.berkeley.edu/~daw). My research interests lie in trustworthy machine learning and its applications in language models and computer security. Previously, I got my M.Eng. and B.Eng. degrees from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn) supervised by Prof. [Xiaolin Huang](http://www.pami.sjtu.edu.cn/en/xiaolin). I also had a great time visiting [University of Washington](https://www.washington.edu), [Northeastern University](https://www.northeastern.edu), [UCSC](https://www.ucsc.edu), and interning at [Tencent](https://www.tencent.com/en-us). Please see my CV for more details.
+Hi! I am a first-year Ph.D. student in [Department of EECS](https://eecs.berkeley.edu), [UC Berkeley](https://www.berkeley.edu), where I am fortunately advised by Prof. [David Wagner](https://people.eecs.berkeley.edu/~daw). My research interests lie in trustworthy machine learning and its applications in language models and computer security. Previously, I got my M.Eng. and B.Eng. degrees from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn) supervised by Prof. [Xiaolin Huang](http://www.pami.sjtu.edu.cn/en/xiaolin). I also had a great time visiting [University of Washington](https://www.washington.edu), [Northeastern University](https://www.northeastern.edu), [UCSC](https://www.ucsc.edu), and interning at [Tencent](https://www.tencent.com/en-us). Please see my CV for more details.
 
 
-Research
+Publications
 ------
 
 + Shutong Wu\*, **Sizhe Chen\***, Cihang Xie, Xiaolin Huang. One-Pixel Shortcut: On the Learning Preference of Deep Neural Networks. *International Conference on Learning Representations (**ICLR**)*, **Spotlight (8%)**, 2023. [[PDF](https://openreview.net/forum?id=p7G8t5FVn2h)]
