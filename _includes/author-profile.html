@@ -112,20 +112,20 @@
       {% if author.orcid %}
         <li><a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a></li>
       {% endif %}
+      {% if author.piano %}
+        <li><a href="{{ author.piano }}"><i class="fas fa-fw fa-play-circle"></i> Piano </a></li>
+      {% endif %}
       {% if author.cv %}
         <li><a href="{{ author.cv }}"><i class="fas fa-fw fa-file-alt"></i> CV </a></li>
       {% endif %}
       {% if author.sop %}
-        <li><a href="{{ author.sop }}"><i class="fas fa-window-alt"></i> SoP (for PhD) </a></li>
+        <li><a href="{{ author.sop }}"><i class="fas fa-fw fa-window-alt"></i> SoP (for PhD) </a></li>
       {% endif %}
       {% if author.story %}
-        <li><a href="{{ author.story }}"><i class="fas fa-treasure-chest"></i> Story (for PhD) </a></li>
+        <li><a href="{{ author.story }}"><i class="fas fa-fw fa-treasure-chest"></i> Story (for PhD) </a></li>
       {% endif %}
       {% if author.thesis %}
         <li><a href="{{ author.thesis }}"><i class="fas fa-fw fa-file-archive"></i> Thesis (Master)</a></li>
-      {% endif %}
-      {% if author.piano %}
-        <li><a href="{{ author.piano }}"><i class="fas fa-fw fa-play-circle"></i> Piano </a></li>
       {% endif %}
       {% if author.impactstory %}
         <li><a href="{{ author.impactstory }}"><i class="ai ai-impactstory ai-fw"></i> Impactstory</a></li>
