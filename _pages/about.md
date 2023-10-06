@@ -11,12 +11,12 @@ redirect_from:
   
 Biography
 ------
-Hi! I am a first-year Ph.D. student in [Department of EECS](https://eecs.berkeley.edu), [UC Berkeley](https://www.berkeley.edu), where I am fortunately advised by Prof. [David Wagner](https://people.eecs.berkeley.edu/~daw). My research interests lie in trustworthy machine learning and its applications in language models and computer security. Previously, I got my M.Eng. and B.Eng. degrees from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn) supervised by Prof. [Xiaolin Huang](http://www.pami.sjtu.edu.cn/en/xiaolin). I also had a great time visiting [UW](https://www.washington.edu), [NEU](https://www.northeastern.edu), [UCSC](https://www.ucsc.edu), and interning at [Tencent](https://www.tencent.com/en-us). Please see my CV for more details.
+Hi! I am a first-year Ph.D. student in [Department of EECS](https://eecs.berkeley.edu), [UC Berkeley](https://www.berkeley.edu), where I am fortunately advised by Prof. [David Wagner](https://people.eecs.berkeley.edu/~daw). My research interests lie in trustworthy machine learning, especially in large language models. Previously, I got my M.Eng. and B.Eng. (Summa Cum Laude) from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn) supervised by Prof. [Xiaolin Huang](http://www.pami.sjtu.edu.cn/en/xiaolin). I also had a great time visiting [UW](https://www.washington.edu), [NEU](https://www.northeastern.edu), [UCSC](https://www.ucsc.edu), and interning at [Tencent](https://www.tencent.com/en-us). 
 
 
 Publications
 ------
-
++ Norman Mu, Sarah Li Chen, Zifan Wang, **Sizhe Chen**, Dan Hendrycks, David Wagner. Programmatic Evaluation of Rule-Following Behavior. 2023.
 + Shutong Wu\*, **Sizhe Chen\***, Cihang Xie, Xiaolin Huang. One-Pixel Shortcut: On the Learning Preference of Deep Neural Networks. *International Conference on Learning Representations (**ICLR**)*, **Spotlight (8%)**, 2023. [[PDF](https://openreview.net/forum?id=p7G8t5FVn2h)]
 + **Sizhe Chen**, Geng Yuan, Xinwen Cheng, Yifan Gong, Minghai Qin, Yanzhi Wang, Xiaolin Huang. Self-Ensemble Protection: Training Checkpoints Are Good Data Protectors. *International Conference on Learning Representations (**ICLR**)*, 2023. [[PDF](https://openreview.net/forum?id=9MO7bjoAfIA)]
 + **Sizhe Chen**, Zhehao Huang, Qinghua Tao, Xiaolin Huang. Query Attack by Multi-Identity Surrogates. *IEEE Transactions on Artificial Intelligence (**TAI**)*, 2023. [[PDF](https://ieeexplore.ieee.org/document/10070787)]
