@@ -16,7 +16,7 @@ Hi! I am a first-year Ph.D. student in [Department of EECS](https://eecs.berkele
 
 Publications
 ------
-+ Norman Mu, Sarah Li Chen, Zifan Wang, **Sizhe Chen**, David Karamardian, Lulwa Aljeraisy, Dan Hendrycks, David Wagner. Can LLMs Follow Simple Rules? 2023.
++ Norman Mu, Sarah Li Chen, Zifan Wang, **Sizhe Chen**, David Karamardian, Lulwa Aljeraisy, Dan Hendrycks, David Wagner. Can LLMs Follow Simple Rules? 2023. [[Website](https://people.eecs.berkeley.edu/~normanmu/llm_rules)]
 + Shutong Wu\*, **Sizhe Chen\***, Cihang Xie, Xiaolin Huang. One-Pixel Shortcut: On the Learning Preference of Deep Neural Networks. *International Conference on Learning Representations (**ICLR**)*, **Spotlight (8%)**, 2023. [[PDF](https://openreview.net/forum?id=p7G8t5FVn2h)]
 + **Sizhe Chen**, Geng Yuan, Xinwen Cheng, Yifan Gong, Minghai Qin, Yanzhi Wang, Xiaolin Huang. Self-Ensemble Protection: Training Checkpoints Are Good Data Protectors. *International Conference on Learning Representations (**ICLR**)*, 2023. [[PDF](https://openreview.net/forum?id=9MO7bjoAfIA)]
 + **Sizhe Chen**, Zhehao Huang, Qinghua Tao, Xiaolin Huang. Query Attack by Multi-Identity Surrogates. *IEEE Transactions on Artificial Intelligence (**TAI**)*, 2023. [[PDF](https://ieeexplore.ieee.org/document/10070787)]
