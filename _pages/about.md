@@ -11,7 +11,7 @@ redirect_from:
   
 Biography
 ------
-Hi! I am a first-year Ph.D. student in [Department of EECS](https://eecs.berkeley.edu), [UC Berkeley](https://www.berkeley.edu), where I am fortunately advised by Prof. [David Wagner](https://people.eecs.berkeley.edu/~daw). My research interests lie in trustworthy machine learning, especially in large language models. Previously, I got my M.Eng. and B.Eng. (Summa Cum Laude) from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn) supervised by Prof. [Xiaolin Huang](http://www.pami.sjtu.edu.cn/en/xiaolin). I also had a great time visiting [UW](https://www.washington.edu), [NEU](https://www.northeastern.edu), [UCSC](https://www.ucsc.edu), and interning at [Tencent](https://www.tencent.com/en-us). 
+Hi! I am a first-year Ph.D. student in [Department of EECS](https://eecs.berkeley.edu), [UC Berkeley](https://www.berkeley.edu), where I am fortunately advised by Prof. [David Wagner](https://people.eecs.berkeley.edu/~daw). My research interests lie in trustworthy machine learning and AI security in real-world applications. Currently, I am working on safe LLMs. Previously, I got my M.Eng. and B.Eng. (Summa Cum Laude) from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn) supervised by Prof. [Xiaolin Huang](http://www.pami.sjtu.edu.cn/en/xiaolin). I also had a great time visiting [UW](https://www.washington.edu), [NEU](https://www.northeastern.edu), [UCSC](https://www.ucsc.edu), and interning at [Tencent](https://www.tencent.com/en-us). 
 
 
 Publications
