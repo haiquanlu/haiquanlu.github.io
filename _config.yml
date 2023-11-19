@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Sizhe Chen"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. Student, UCB"
-  location         : "Berkeley, CA, USA"
+  bio              : "Ph.D. Student, UC Berkeley"
+  #location         : "Berkeley, CA, USA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=lp5ujPsAAAAJ"
   email            : "sizhe.chen@berkeley.edu"
