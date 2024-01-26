@@ -19,10 +19,10 @@ My research focuses on **AI security** in real-world applications. I am currentl
 Selected Publications
 ------
 + Separating Instruction and Data for Prompt Injection Defense <br/> **Sizhe Chen**, Julien Piet, Chawin Sitawarin, David Wagner <br/> arXiv'24
-+ One-Pixel Shortcut: On the Learning Preference of Deep Neural Networks <br/> Shutong Wu\*, **Sizhe Chen\***, Cihang Xie, Xiaolin Huang <br/> [ICLR'23 Spotlight](https://openreview.net/forum?id=p7G8t5FVn2h)
++ One-Pixel Shortcut: On the Learning Preference of Deep Neural Networks <br/> Shutong Wu\*, **Sizhe Chen\***, Cihang Xie, Xiaolin Huang <br/> [ICLR'23 (Spotlight)](https://openreview.net/forum?id=p7G8t5FVn2h)
 + Adversarial Attack on Attackers: Post-Process to Mitigate Black-Box Score-Based Query Attacks <br/> **Sizhe Chen**, Zhehao Huang, Qinghua Tao, Yingwen Wu, Cihang Xie, Xiaolin Huang <br/> [NeurIPS'22](https://openreview.net/forum?id=7hhH95QKKDX)
 + Universal Adversarial Attack on Attention and the Resulting Dataset DAmageNet <br/> **Sizhe Chen**, Zhengbao He, Chengjin Sun, Jie Yang, Xiaolin Huang <br/> [TPAMI'22](https://ieeexplore.ieee.org/document/9238430)
-+ Subspace Adversarial Training <br/> Tao Li, Yingwen Wu, **Sizhe Chen**, Kun Fang, Xiaolin Huang <br/> [CVPR'22 Oral](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Subspace_Adversarial_Training_CVPR_2022_paper)
++ Subspace Adversarial Training <br/> Tao Li, Yingwen Wu, **Sizhe Chen**, Kun Fang, Xiaolin Huang <br/> [CVPR'22 (Oral)](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Subspace_Adversarial_Training_CVPR_2022_paper)
 
 
 Services
