@@ -19,10 +19,10 @@ My research focuses on AI security in real-world applications. I am currently in
 Selected Publications
 ------
 + **Sizhe Chen**, Julien Piet, Chawin Sitawarin, David Wagner. Separating Instruction and Data for Prompt Injection Defense. arXiv 2024.
-+ Shutong Wu\*, **Sizhe Chen\***, Cihang Xie, Xiaolin Huang. One-Pixel Shortcut: On the Learning Preference of Deep Neural Networks. *International Conference on Learning Representations (**ICLR**)*, **Spotlight (8%)**, 2023. [[PDF](https://openreview.net/forum?id=p7G8t5FVn2h)]
-+ **Sizhe Chen**, Zhehao Huang, Qinghua Tao, Yingwen Wu, Cihang Xie, Xiaolin Huang. Adversarial Attack on Attackers: Post-Process to Mitigate Black-Box Score-Based Query Attacks. *Annual Conference on Neural Information Processing Systems (**NeurIPS**)*, 2022. [[PDF](https://openreview.net/forum?id=7hhH95QKKDX)]
-+ **Sizhe Chen**, Zhengbao He, Chengjin Sun, Jie Yang, Xiaolin Huang. Universal Adversarial Attack on Attention and the Resulting Dataset DAmageNet. *IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**)*, 2022. [[PDF](https://ieeexplore.ieee.org/document/9238430)]
-+ Tao Li, Yingwen Wu, **Sizhe Chen**, Kun Fang, Xiaolin Huang. Subspace Adversarial Training. *The IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)*, **Oral (4%)**, 2022. [[PDF](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Subspace_Adversarial_Training_CVPR_2022_paper)]
++ Shutong Wu\*, **Sizhe Chen\***, Cihang Xie, Xiaolin Huang. One-Pixel Shortcut: On the Learning Preference of Deep Neural Networks. [*ICLR'23 Spotlight*](https://openreview.net/forum?id=p7G8t5FVn2h)
++ **Sizhe Chen**, Zhehao Huang, Qinghua Tao, Yingwen Wu, Cihang Xie, Xiaolin Huang. Adversarial Attack on Attackers: Post-Process to Mitigate Black-Box Score-Based Query Attacks. [*NeurIPS'22*](https://openreview.net/forum?id=7hhH95QKKDX)
++ **Sizhe Chen**, Zhengbao He, Chengjin Sun, Jie Yang, Xiaolin Huang. Universal Adversarial Attack on Attention and the Resulting Dataset DAmageNet. [*TPAMI'22*](https://ieeexplore.ieee.org/document/9238430)
++ Tao Li, Yingwen Wu, **Sizhe Chen**, Kun Fang, Xiaolin Huang. Subspace Adversarial Training. [*CVPR'22 Oral*](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Subspace_Adversarial_Training_CVPR_2022_paper)
 
 
 Services
