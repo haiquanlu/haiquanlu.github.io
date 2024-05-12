@@ -27,7 +27,7 @@ Selected Publications
 Services
 ------
 + UC Berkeley CS Faculty Hiring Committee: 2024
-+ Conference Reviewer: NeurIPS'23, ICML'24, ICLR'23/24, CVPR'23/24, ICCV'23, ECCV'22/24
++ Conference Reviewer: CCS'24, NeurIPS'23, ICML'24, ICLR'23/24, CVPR'23/24, ICCV'23, ECCV'22/24
 + Journal Reviewer: IEEE TPAMI, Machine Learning, Pattern Recognition
 
 
