@@ -17,11 +17,11 @@ My research focuses on **AI security** in real-world applications. I am currentl
 
 Selected Publications
 ------
-+ StruQ: Defending Against Prompt Injection with Structured Queries <br/> **Sizhe Chen**, Julien Piet, Chawin Sitawarin, David Wagner <br/> [arXiv'24](http://arxiv.org/abs/2402.06363), [code](https://github.com/Sizhe-Chen/StruQ)
-+ One-Pixel Shortcut: On the Learning Preference of Deep Neural Networks <br/> Shutong Wu\*, **Sizhe Chen\***, Cihang Xie, Xiaolin Huang <br/> [ICLR'23 (Spotlight)](https://openreview.net/forum?id=p7G8t5FVn2h), [code](https://github.com/cychomatica/One-Pixel-Shotcut)
-+ Adversarial Attack on Attackers: Post-Process to Mitigate Black-Box Score-Based Attacks <br/> **Sizhe Chen**, Zhehao Huang, Qinghua Tao, Yingwen Wu, Cihang Xie, Xiaolin Huang <br/> [NeurIPS'22](https://openreview.net/forum?id=7hhH95QKKDX), [code](https://github.com/Sizhe-Chen/AAA)
-+ Universal Adversarial Attack on Attention and the Resulting Dataset DAmageNet <br/> **Sizhe Chen**, Zhengbao He, Chengjin Sun, Jie Yang, Xiaolin Huang <br/> [TPAMI'22](https://ieeexplore.ieee.org/document/9238430), [code](https://github.com/Sizhe-Chen/DAmageNet)
-+ Subspace Adversarial Training <br/> Tao Li, Yingwen Wu, **Sizhe Chen**, Kun Fang, Xiaolin Huang <br/> [CVPR'22 (Oral)](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Subspace_Adversarial_Training_CVPR_2022_paper), [code](https://github.com/nblt/Sub-AT)
++ StruQ: Defending Against Prompt Injection with Structured Queries <br/> **Sizhe Chen**, Julien Piet, Chawin Sitawarin, David Wagner <br/> [[arXiv'24](http://arxiv.org/abs/2402.06363)], [[Code](https://github.com/Sizhe-Chen/StruQ)]
++ One-Pixel Shortcut: On the Learning Preference of Deep Neural Networks <br/> Shutong Wu\*, **Sizhe Chen\***, Cihang Xie, Xiaolin Huang <br/> [[ICLR'23 (Spotlight)](https://openreview.net/forum?id=p7G8t5FVn2h)], [[Code](https://github.com/cychomatica/One-Pixel-Shotcut)]
++ Adversarial Attack on Attackers: Post-Process to Mitigate Black-Box Score-Based Attacks <br/> **Sizhe Chen**, Zhehao Huang, Qinghua Tao, Yingwen Wu, Cihang Xie, Xiaolin Huang <br/> [[NeurIPS'22](https://openreview.net/forum?id=7hhH95QKKDX)], [[Code](https://github.com/Sizhe-Chen/AAA)]
++ Universal Adversarial Attack on Attention and the Resulting Dataset DAmageNet <br/> **Sizhe Chen**, Zhengbao He, Chengjin Sun, Jie Yang, Xiaolin Huang <br/> [[TPAMI'22](https://ieeexplore.ieee.org/document/9238430)], [[Code](https://github.com/Sizhe-Chen/DAmageNet)]
++ Subspace Adversarial Training <br/> Tao Li, Yingwen Wu, **Sizhe Chen**, Kun Fang, Xiaolin Huang <br/> [[CVPR'22 (Oral)](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Subspace_Adversarial_Training_CVPR_2022_paper)], [[Code](https://github.com/nblt/Sub-AT)]
 
 
 Services
