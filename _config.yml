@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Sizhe Chen"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. Student, UC Berkeley"
+  bio              : "CS Ph.D. Student, UC Berkeley"
   #location         : "Berkeley, CA, USA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=lp5ujPsAAAAJ"
@@ -104,7 +104,7 @@ author:
   #instagram        : _sizhe_chen_
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : -sizhe-chen-
+  #linkedin         : -sizhe-chen-
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
