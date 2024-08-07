@@ -30,9 +30,10 @@ Services
 
 Mentees
 ------
-I am fortunate to have mentored lots of talented students (some from underrepresentative groups), including [Jing Qian](https://jing-qian-98.github.io), [Shutong Wu](https://cychomatica.github.io), [Hend Alzahrani](https://sa.linkedin.com/in/hend-alzahrani), [Yingwen Wu](https://openreview.net/profile?id=~Yingwen_Wu1), [Zhixing Ye](https://ieeexplore.ieee.org/author/37089933329), [Zhengbao He](https://openreview.net/profile?id=~Zhengbao_He1).
+I am fortunate to have mentored lots of talented students (some from underrepresentative groups): [Jing Qian](https://jing-qian-98.github.io), [Shutong Wu](https://cychomatica.github.io), [Hend Alzahrani](https://sa.linkedin.com/in/hend-alzahrani), [Yingwen Wu](https://openreview.net/profile?id=~Yingwen_Wu1), [Zhixing Ye](https://ieeexplore.ieee.org/author/37089933329), [Zhengbao He](https://openreview.net/profile?id=~Zhengbao_He1).
 
 Misc
 ------
-I love to play badminton, lift weights, write [blogs](http://xhslink.com/5JP3XI), and attend concerts (I directed three 1K-spectator concerts). <br/>
+I love to play badminton, lift weights, write [blogs](http://xhslink.com/5JP3XI), and attend concerts (I directed three 1K-spectator concerts). <br/> <br/> 
+
 ![](https://github.com/Sizhe-Chen/Sizhe-Chen.github.io/blob/master/images/piano.jpg?raw=true)
