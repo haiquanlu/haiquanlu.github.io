@@ -30,7 +30,7 @@ Services
 
 Mentees
 ------
-I am fortunate to have mentored talented students, some of which from underrepresentative groups.
+I am fortunate to have mentored lots of talented students (some from underrepresentative groups).
 + [Jing Qian](https://jing-qian-98.github.io)
 + [Shutong Wu](https://cychomatica.github.io)
 + [Hend Alzahrani](https://sa.linkedin.com/in/hend-alzahrani)
@@ -40,5 +40,5 @@ I am fortunate to have mentored talented students, some of which from underrepre
 
 Misc
 ------
-Outside research, I love to play badminton, lift weights, write blogs, and attend concerts (I directed three 1K-spectator concerts). 
-![](https://github.com/Sizhe-Chen/Sizhe-Chen.github.io/blob/master/images/piano.jpg?raw=true)
+Outside research, I love to play badminton, lift weights, write [blogs](http://xhslink.com/5JP3XI), and attend concerts. 
+![I directed three 1K-spectator concerts](https://github.com/Sizhe-Chen/Sizhe-Chen.github.io/blob/master/images/piano.jpg?raw=true)
