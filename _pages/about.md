@@ -10,13 +10,9 @@ redirect_from:
   
 Biography
 ------
-Hi! I am a CS Ph.D. student at [UC Berkeley](https://eecs.berkeley.edu) advised fortunately by Prof. [David Wagner](https://people.eecs.berkeley.edu/~daw) in [Berkeley AI Research (BAIR)](https://bair.berkeley.edu). My research is supported by [BAIR Commons](https://bcommons.berkeley.edu/home), working with [Chuan Guo](https://sites.google.com/view/chuanguo) at Meta. I got my M.Eng. and B.Eng. (Summa Cum Laude) from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn) advised by [Xiaolin Huang](http://www.pami.sjtu.edu.cn/en/xiaolin) and also with [Cihang Xie](https://cihangxie.github.io). 
+Hi! I am a CS Ph.D. student at [UC Berkeley](https://eecs.berkeley.edu) advised fortunately by Prof. [David Wagner](https://people.eecs.berkeley.edu/~daw) in [Berkeley AI Research (BAIR)](https://bair.berkeley.edu). My research is supported by [BAIR Commons](https://bcommons.berkeley.edu/home), working with [Chuan Guo](https://sites.google.com/view/chuanguo) at [Meta](https://ai.meta.com/research). I got my M.Eng. and B.Eng. (Summa Cum Laude) from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn) advised by [Xiaolin Huang](http://www.pami.sjtu.edu.cn/en/xiaolin) and also with [Cihang Xie](https://cihangxie.github.io). 
 
-My research focuses on AI security in real-world applications. I am working on defenses against prompt injections ([StruQ](http://arxiv.org/abs/2402.06363), [Jatmo](https://arxiv.org/abs/2312.17673)), which arise as LLM-integrated applications generally craft LLM inputs by concatenating a trusted prompt from the developer with an untrusted data from the user. Security against prompt injections enables broader use of LLMs, e.g., as an agent. My work on trustworthy vision models is listed in my [CV](https://drive.google.com/file/d/1UmHL5TfvXIGuNRIPX9DHT_LwRCu1Hkf1/view?usp=sharing) and (previous) [SoP](https://drive.google.com/file/d/1nmocMJFOmw_5_N1roe96Vszhhg7zhaZS/view?usp=sharing). 
-
-I am fortunate to have mentored talented students (some from underrepresentative groups), including Jing Qian, Shutong Wu, Hend Alzahrani, Yingwen Wu, Zhengbao He, Zhixing Ye.
-
-Outside research, I love to play badminton, lift weights, write blogs, and attend concerts (I directed three 1K-spectator concerts). Feel free to drop me an email to connect!
+My research focuses on AI security in real-world applications. I am working on defenses against prompt injections ([StruQ](http://arxiv.org/abs/2402.06363), [Jatmo](https://arxiv.org/abs/2312.17673)), which arise as LLM-integrated applications generally craft LLM inputs by concatenating a trusted prompt from the developer with an untrusted data from the user. Security against prompt injections enables broader use of LLMs, e.g., as an agent. My work on trustworthy vision models is listed in my [CV](https://drive.google.com/file/d/1UmHL5TfvXIGuNRIPX9DHT_LwRCu1Hkf1/view?usp=sharing) and (previous) [SoP](https://drive.google.com/file/d/1nmocMJFOmw_5_N1roe96Vszhhg7zhaZS/view?usp=sharing). Feel free to drop me an email to connect!
 
 Selected Publications
 ------
@@ -26,12 +22,23 @@ Selected Publications
 + Universal Adversarial Attack on Attention and the Resulting Dataset DAmageNet <br/> **Sizhe Chen**, Zhengbao He, Chengjin Sun, Jie Yang, Xiaolin Huang <br/> [[TPAMI'22](https://ieeexplore.ieee.org/document/9238430)], [[Code](https://github.com/Sizhe-Chen/DAmageNet)]
 + Subspace Adversarial Training <br/> Tao Li, Yingwen Wu, **Sizhe Chen**, Kun Fang, Xiaolin Huang <br/> [[CVPR'22 (Oral)](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Subspace_Adversarial_Training_CVPR_2022_paper)], [[Code](https://github.com/nblt/Sub-AT)]
 
-
 Services
 ------
 + Conference Reviewer: SaTML'25, CCS'24, ICML'24, NeurIPS'23, ICLR'23/24, CVPR'23/24, ICCV'23, ECCV'22/24
 + Journal Reviewer: IEEE TPAMI, Machine Learning, Pattern Recognition
 + UC Berkeley CS Faculty Hiring Committee: 2024
 
+Mentees
+------
+I am fortunate to have mentored talented students, some of which from underrepresentative groups.
++ [Jing Qian](https://jing-qian-98.github.io)
++ [Shutong Wu](https://cychomatica.github.io)
++ [Hend Alzahrani](https://sa.linkedin.com/in/hend-alzahrani)
++ [Yingwen Wu](https://openreview.net/profile?id=~Yingwen_Wu1)
++ [Zhixing Ye](https://ieeexplore.ieee.org/author/37089933329)
++ [Zhengbao He](https://openreview.net/profile?id=~Zhengbao_He1)
 
+Misc
+------
+Outside research, I love to play badminton, lift weights, write blogs, and attend concerts (I directed three 1K-spectator concerts). 
 ![](https://github.com/Sizhe-Chen/Sizhe-Chen.github.io/blob/master/images/piano.jpg?raw=true)
