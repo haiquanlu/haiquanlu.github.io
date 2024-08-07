@@ -32,5 +32,7 @@ Services
 
 Misc
 ------
-I love to play badminton, lift weights, write [blogs](http://xhslink.com/5JP3XI), and attend concerts (I directed three 1K-spectator concerts). <br/>
++ I love to play badminton, lift weights, write [blogs](http://xhslink.com/5JP3XI), and attend concerts.
++ I directed three 1K-spectator concerts. <br/>
+
 ![](https://github.com/Sizhe-Chen/Sizhe-Chen.github.io/blob/master/images/piano.jpg?raw=true)
