@@ -18,12 +18,12 @@ I am fortunate to have mentored lots of talented students (and some from underre
 
 Invited Talks
 ------
-+ Security Seminar (UC Berkeley): Prompt Injection Defenses by Structured Queries and Alignment Training (2024)
-+ TMLR Young Scientist Seminar (Hong Kong Baptist University): Prompt Injection Defenses by Structured Queries and Alignment Training (2024)
-+ ICLR 2023 (oral track): One-Pixel Shortcut: On the Learning Preference of Deep Neural Networks (2023)
-+ Youth Ph.D. Talk (AI Time): On the Learning Preference of Deep Neural Networks (2023)
-+ CVPR 2022 (oral track): Subspace Adversarial Training (2022)
-+ Security Seminar (Northeastern University): Adversarial Attacks and Defenses (2022)
++ Security Seminar (UC Berkeley), 2024 <br/> Prompt Injection Defenses by Structured Queries and Alignment Training
++ TMLR Young Scientist Seminar (Hong Kong Baptist University), 2024 <br/> Prompt Injection Defenses by Structured Queries and Alignment Training
++ ICLR 2023 (oral track), 2023 <br/> One-Pixel Shortcut: On the Learning Preference of Deep Neural Networks
++ Youth Ph.D. Talk (AI Time), 2023 <br/> On the Learning Preference of Deep Neural Networks
++ CVPR 2022 (oral track), 2022 <br/> Subspace Adversarial Training
++ Security Seminar (Northeastern University), 2022 <br/> Adversarial Attacks and Defenses
 
 Selected Publications
 ------
