@@ -36,14 +36,14 @@ Selected Publications
 
 Services
 ------
-+ Conference Reviewer: SaTML'25, CCS'24, ICML'24, NeurIPS'23, ICLR'23-25, CVPR'23/24, ICCV'23, ECCV'22/24
++ Conference Reviewer: SaTML'25, CCS'24, ICML'24, NeurIPS'23, ICLR'23/24/25, CVPR'23/24, ICCV'23, ECCV'22/24
 + Journal Reviewer: IEEE TPAMI, Machine Learning, Pattern Recognition
 + UC Berkeley Computer Science Faculty Hiring Committee: 2024
 + UC Berkeley [Equal Access to Application Assistance (EEEA)](https://sites.google.com/berkeley.edu/eaaa/home) Program Reviewer: 2024
 
 Misc
 ------
-+ I love to play badminton, lift weights, write [blogs](http://xhslink.com/5JP3XI), and attend concerts.
++ I love to lift weights, write [blogs](http://xhslink.com/5JP3XI), play badminton, and attend concerts.
 + I directed three 1K-spectator concerts. <br/>
 
 ![](https://github.com/Sizhe-Chen/Sizhe-Chen.github.io/blob/master/images/piano.jpg?raw=true)
