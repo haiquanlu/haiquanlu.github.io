@@ -10,11 +10,20 @@ redirect_from:
   
 Biography
 ------
-Hi! I am a Computer Science Ph.D. student at [UC Berkeley](https://eecs.berkeley.edu), fortunately advised by Prof. [David Wagner](https://people.eecs.berkeley.edu/~daw) in [Berkeley AI Research (BAIR)](https://bair.berkeley.edu). I am also working as a visiting researcher with [Chuan Guo](https://sites.google.com/view/chuanguo) at [Meta FAIR Labs](https://ai.meta.com/research) and [Nicholas Carlini](https://nicholas.carlini.com) at [Google DeepMind](https://deepmind.google), supported by two [BAIR Commons](https://bcommons.berkeley.edu/home) with them. Previously, I got my M.Eng. (National Scholarship) and B.Eng. (Summa Cum Laude) from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn) advised by Prof. [Xiaolin Huang](http://www.pami.sjtu.edu.cn/en/xiaolin) and also with Prof. [Cihang Xie](https://cihangxie.github.io).
+Hi! I am a Computer Science Ph.D. student at [UC Berkeley](https://eecs.berkeley.edu), fortunately advised by Prof. [David Wagner](https://people.eecs.berkeley.edu/~daw) in [Berkeley AI Research (BAIR)](https://bair.berkeley.edu). I am working as a visiting researcher with [Chuan Guo](https://sites.google.com/view/chuanguo) at [Meta FAIR Labs](https://ai.meta.com/research) and [Nicholas Carlini](https://nicholas.carlini.com) at [Google DeepMind](https://deepmind.google), supported by two [BAIR Commons](https://bcommons.berkeley.edu/home) with them. I got my M.Eng. (National Scholarship) and B.Eng. (Summa Cum Laude) from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn) advised by Prof. [Xiaolin Huang](http://www.pami.sjtu.edu.cn/en/xiaolin) and also with Prof. [Cihang Xie](https://cihangxie.github.io).
 
 My research focuses on AI security in real-world applications. I am currently working on prompt injection defenses ([SecAlign](https://arxiv.org/abs/2410.05451), [StruQ](http://arxiv.org/abs/2402.06363), [Jatmo](https://arxiv.org/abs/2312.17673)). [Prompt injections](https://www.ibm.com/topics/prompt-injection) are listed as the [#1 threat](https://genai.owasp.org) to Large Language Model (LLM) Integrated Applications, where a trusted prompt is concatenated to an untrusted data (with potentially injected prompts) as the LLM input. To open up new opportunities for safely using LLMs in systems (e.g., as agents), my goal is to design fundamental defenses to secure LLMs against prompt injections. My work on trustworthy vision models is listed in my [CV](https://drive.google.com/file/d/1UmHL5TfvXIGuNRIPX9DHT_LwRCu1Hkf1/view?usp=sharing) and (previous) [SoP](https://drive.google.com/file/d/1nmocMJFOmw_5_N1roe96Vszhhg7zhaZS/view?usp=sharing). Feel free to drop me an email to connect!
 
 I am fortunate to have mentored lots of talented students (and some from underrepresentative groups): [Jing Qian](https://jing-qian-98.github.io), [Shutong Wu](https://cychomatica.github.io), [Yingwen Wu](https://openreview.net/profile?id=~Yingwen_Wu1), [Zhixing Ye](https://ieeexplore.ieee.org/author/37089933329), [Hend Alzahrani](https://sa.linkedin.com/in/hend-alzahrani), and [Zhengbao He](https://openreview.net/profile?id=~Zhengbao_He1).
+
+Invited Talks
+------
++ Security Seminar (UC Berkeley): Prompt Injection Defenses by Structured Queries and Alignment Training (2024)
++ TMLR Young Scientist Seminar (Hong Kong Baptist University): Prompt Injection Defenses by Structured Queries and Alignment Training (2024)
++ ICLR 2023 (oral track): One-Pixel Shortcut: On the Learning Preference of Deep Neural Networks (2023)
++ Youth Ph.D. Talk (AI Time): On the Learning Preference of Deep Neural Networks (2023)
++ CVPR 2022 (oral track): Subspace Adversarial Training (2022)
++ Security Seminar (Northeastern University): Adversarial Attacks and Defenses (2022)
 
 Selected Publications
 ------
