@@ -40,7 +40,7 @@ Other Publications
 + Query Attack by Multi-Identity Surrogates <br/> **Sizhe Chen**, Zhehao Huang, Qinghua Tao, Xiaolin Huang <br/> [IEEE TAI'23](https://ieeexplore.ieee.org/document/10070787) \| [ArXiv](https://arxiv.org/abs/2105.15010) \| [Slides](https://drive.google.com/file/d/1ExOSIkz45BwYQKN1nfxtpxuBeg9gNut0/view?usp=sharing) \| [Code](https://github.com/Sizhe-Chen/QueryNet)
 + Measuring the Transferability of $\ell_\infty$ Attacks by the $\ell_2$ Norm <br/> **Sizhe Chen**, Qinghua Tao, Zhixing Ye, Xiaolin Huang <br/> [ICASSP'23](https://ieeexplore.ieee.org/document/10096892) \| [ArXiv](https://arxiv.org/abs/2102.10343) \| [Code](https://github.com/Sizhe-Chen/FairAttack)
 + Unifying Gradients to Improve Real-World Robustness for Deep Networks <br/> Yingwen Wu, **Sizhe Chen**, Kun Fang, Xiaolin Huang <br/> [ACM TIST'23](https://dl.acm.org/doi/abs/10.1145/3617895) \| [ArXiv](https://arxiv.org/abs/2208.06228) \| [Code](https://github.com/snowien/UniG-pytorch)
-+ Relevance Attack on Detectors <br/> **Sizhe Chen**, Fan He, Xiaolin Huang, Kun Zhang <br/> [Pattern Recognition'22](https://www.journals.elsevier.com/pattern-recognition) \| [ArXiv](https://arxiv.org/abs/2008.06822) \| [Code](https://github.com/Sizhe-Chen/RAD)
++ Relevance Attack on Detectors <br/> **Sizhe Chen**, Fan He, Xiaolin Huang, Kun Zhang <br/> [Pattern Recognition'22](https://www.sciencedirect.com/science/article/abs/pii/S0031320321006671) \| [ArXiv](https://arxiv.org/abs/2008.06822) \| [Code](https://github.com/Sizhe-Chen/RAD)
 
 Services
 ------
