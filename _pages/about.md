@@ -44,7 +44,7 @@ Other Publications
 
 Services
 ------
-+ Reviewer: SaTML'25, CCS'24, ICML'24, NeurIPS'23, ICLR'23/24/25, CVPR'23/24, ICCV'23, ECCV'22/24, IEEE TPAMI, Machine Learning, Pattern Recognition
++ Reviewer: SaTML'25, CCS'24, ICML'24, NeurIPS'23, ICLR'23/24/25, CVPR'23/24/25, ICCV'23, ECCV'22/24, IEEE TPAMI, Machine Learning, Pattern Recognition
 + UC Berkeley Computer Science Faculty Hiring Committee, 2024
 + UC Berkeley Equal Access to Application Assistance Reviewer, 2024
 
