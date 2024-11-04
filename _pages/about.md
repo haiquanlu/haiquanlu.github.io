@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Sizhe Chen (陈思哲)"
 author_profile: true
 redirect_from: 
   - /about/
