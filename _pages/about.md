@@ -35,7 +35,7 @@ Selected Publications
 Other Publications
 ------
 + Jatmo: Prompt Injection Defense by Task-Specific Finetuning <br/> Julien Piet, Maha Alrashed, Chawin Sitawarin, **Sizhe Chen**, Zeming Wei, Elizabeth Sun, Basel Alomair, David Wagner <br/> [![](https://img.shields.io/badge/ESORICS'24-e1dd72)](https://dl.acm.org/doi/abs/10.1007/978-3-031-70879-4_6) [![](https://img.shields.io/badge/Paper-a8c66c)](https://arxiv.org/pdf/2312.17673) [![](https://img.shields.io/badge/Slides-f47a60)](https://drive.google.com/file/d/1dz23r986NxCFWXYuIMBQvHZ4Eg4liq_o/view?usp=sharing) [![](https://img.shields.io/badge/Code-4d5198)](https://github.com/wagner-group/prompt-injection-defense)
-+ Can LLMs Follow Simple Rules? <br/> Norman Mu, Sarah Chen, Zifan Wang, **Sizhe Chen**, David Karamardian, Lulwa Aljeraisy, Basel Alomair, Dan Hendrycks, David Wagner <br/> [![](https://img.shields.io/badge/Paper-a8c66c)](https://arxiv.org/pdf/2311.04235) [![](https://img.shields.io/badge/Website-e0cdbe)](https://eecs.berkeley.edu/~normanmu/llm_rules) [![](https://img.shields.io/badge/Code-4d5198)](https://github.com/normster/llm_rules)
++ Can LLMs Follow Simple Rules? <br/> Norman Mu, Sarah Chen, Zifan Wang, **Sizhe Chen**, David Karamardian, Lulwa Aljeraisy, Basel Alomair, Dan Hendrycks, David Wagner <br/> [![](https://img.shields.io/badge/Paper-a8c66c)](https://arxiv.org/pdf/2311.04235) [![](https://img.shields.io/badge/Website-097770)](https://eecs.berkeley.edu/~normanmu/llm_rules) [![](https://img.shields.io/badge/Code-4d5198)](https://github.com/normster/llm_rules)
 + Self-Ensemble Protection: Training Checkpoints Are Good Data Protectors <br/> **Sizhe Chen**, Geng Yuan, Xinwen Cheng, Yifan Gong, Minghai Qin, Yanzhi Wang, Xiaolin Huang <br/> [![](https://img.shields.io/badge/ICLR'23-e1dd72)](https://openreview.net/forum?id=9MO7bjoAfIA) [![](https://img.shields.io/badge/Paper-a8c66c)](https://arxiv.org/pdf/2211.12005)  [![](https://img.shields.io/badge/Poster-1b6535)](https://drive.google.com/file/d/171xgU_zcwvP0X9hlq1W-CJG4giCCxJIu/view?usp=sharing) [![](https://img.shields.io/badge/Slides-f47a60)](https://drive.google.com/file/d/1dIwpAVxqozog63t5J1ql2BUxBYaxSMky/view?usp=sharing) [![](https://img.shields.io/badge/Code-4d5198)](https://github.com/Sizhe-Chen/SEP)
 + Query Attack by Multi-Identity Surrogates <br/> **Sizhe Chen**, Zhehao Huang, Qinghua Tao, Xiaolin Huang <br/> [![](https://img.shields.io/badge/IEEE%20TAI'23-e1dd72)](https://ieeexplore.ieee.org/document/10070787) [![](https://img.shields.io/badge/Paper-a8c66c)](https://arxiv.org/pdf/2105.15010) [![](https://img.shields.io/badge/Slides-f47a60)](https://drive.google.com/file/d/1ExOSIkz45BwYQKN1nfxtpxuBeg9gNut0/view?usp=sharing) [![](https://img.shields.io/badge/Code-4d5198)](https://github.com/Sizhe-Chen/QueryNet)
 + Measuring the Transferability of $\ell_\infty$ Attacks by the $\ell_2$ Norm <br/> **Sizhe Chen**, Qinghua Tao, Zhixing Ye, Xiaolin Huang <br/> [![](https://img.shields.io/badge/ICASSP'23-e1dd72)](https://ieeexplore.ieee.org/document/10096892) [![](https://img.shields.io/badge/Paper-a8c66c)](https://arxiv.org/pdf/2102.10343) [![](https://img.shields.io/badge/Code-4d5198)](https://github.com/Sizhe-Chen/FairAttack)
@@ -45,9 +45,7 @@ Other Publications
 Services
 ------
 + Reviewer: SaTML'25, CCS'24, ICML'24, NeurIPS'23, ICLR'23/24/25, CVPR'23/24/25, ICCV'23, ECCV'22/24, IEEE TPAMI, Machine Learning, Pattern Recognition
-+ UC Berkeley Computer Science Faculty Hiring Committee, 2024
-+ UC Berkeley Ph.D. Admission Committee Student Reviewer, 2024
-+ UC Berkeley Equal Access to Application Assistance Reviewer, 2024
++ UC Berkeley Student Reviewer: Computer Science Faculty Hiring Committee'24, Ph.D. Admission Committee'24, Equal Access to Application'24
 
 Misc
 ------
