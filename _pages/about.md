@@ -45,7 +45,7 @@ Other Publications
 Services
 ------
 + **Reviewer**: SaTML 2025, CCS 2024, ICML 2024, NeurIPS 2023, ICLR 2023/2024/2025, CVPR 2023/2024/2025, ICCV 2023, ECCV 2022/2024, IEEE TPAMI, Machine Learning, Pattern Recognition
-+ **UC Berkeley Student Reviewer**: Computer Science Faculty Hiring Committee 2024, Ph.D. Admission Committee 2024, Equal Access to Application Assistance 2024
++ **UC Berkeley EECS Student Reviewer**: Faculty Hiring Committee 2024, Ph.D. Admission Committee 2024, Equal Access to Application Assistance 2024
 
 Awards
 ------
