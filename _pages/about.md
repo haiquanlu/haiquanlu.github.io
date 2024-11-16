@@ -10,7 +10,7 @@ redirect_from:
   
 Biography
 ------
-Hi! I am a Computer Science Ph.D. student at [UC Berkeley](https://eecs.berkeley.edu), where I am fortunately advised by Prof. [David Wagner](https://people.eecs.berkeley.edu/~daw) in [Berkeley AI Research (BAIR)](https://bair.berkeley.edu). I am working closely with [Chuan Guo](https://sites.google.com/view/chuanguo) at [Meta FAIR](https://ai.meta.com/research) as a visiting researcher, and with [Nicholas Carlini](https://nicholas.carlini.com) at [Google DeepMind](https://deepmind.google); the two collaborations are supported by two [BAIR Commons](https://bcommons.berkeley.edu/home) from them. I got my M.Eng. (National Scholarship) and B.Eng. (Summa Cum Laude) from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn) advised by Prof. [Xiaolin Huang](http://www.pami.sjtu.edu.cn/en/xiaolin) and also with Prof. [Cihang Xie](https://cihangxie.github.io), when I was working on [attacks to vision models](https://drive.google.com/file/d/1nmocMJFOmw_5_N1roe96Vszhhg7zhaZS/view?usp=sharing).
+Hi! I am a Computer Science Ph.D. student at [UC Berkeley](https://eecs.berkeley.edu), where I am fortunately advised by Prof. [David Wagner](https://people.eecs.berkeley.edu/~daw) in [Berkeley AI Research (BAIR)](https://bair.berkeley.edu). I am working closely with [Chuan Guo](https://sites.google.com/view/chuanguo) at [Meta FAIR](https://ai.meta.com/research) as a visiting researcher, and with [Nicholas Carlini](https://nicholas.carlini.com) at [Google DeepMind](https://deepmind.google); the two collaborations are supported by two [BAIR Commons](https://bcommons.berkeley.edu/home) from them. I got my M.Eng. (National Scholarship) and B.Eng. (Summa Cum Laude) from [Shanghai Jiao Tong University (SJTU)](http://en.sjtu.edu.cn) advised by Prof. [Xiaolin Huang](http://www.pami.sjtu.edu.cn/en/xiaolin) and also with Prof. [Cihang Xie](https://cihangxie.github.io), when I was working on [attacks to vision models](https://drive.google.com/file/d/1nmocMJFOmw_5_N1roe96Vszhhg7zhaZS/view?usp=sharing).
 
 My research focuses on AI security in real-world applications. I am currently working on prompt injection defense ([SecAlign](https://arxiv.org/pdf/2410.05451), [StruQ](http://arxiv.org/pdf/2402.06363), [Jatmo](https://arxiv.org/pdf/2312.17673)). [Prompt injection attack](https://www.ibm.com/topics/prompt-injection) is listed as the [#1 threat](https://owasp.org/www-project-top-10-for-large-language-model-applications) to Large Language Model (LLM) Integrated Applications, where a trusted prompt is concatenated to an untrusted data (user documents, web retrieval, results from API calls, etc) as the LLM input. If the data contains malicious instructions (Ignore previous instructions and ...), the LLM could be arbitrarily manipulated. To open up new opportunities for safely using LLMs in systems (e.g., as agents), my goal is to design fundamental defenses to secure LLMs against prompt injections.
 
@@ -18,10 +18,10 @@ I am fortunate to have mentored lots of talented students (and some from underre
 
 Invited Talks
 ------
-+ Prompt Injection Defense by Structured Queries and Secure Alignment [![](https://img.shields.io/badge/Talk-316879)](https://docs.google.com/document/d/1pip5y_HGU4qjN0K6NEFuI379RPdL9T6o/edit?usp=sharing) [![](https://img.shields.io/badge/Slides-f47a60)](https://drive.google.com/file/d/1baUbgFMILhPWBeGrm67XXy_H-jO7raRa/view?usp=sharing) <br/> UC Berkeley Security Seminar 2024 <br/> Hong Kong Baptist University TMLR Young Scientist Seminar 2024 <br/> Shanghai Jiao Tong University PAMI Group Seminar 2024
-+ On the Learning Preference of Deep Neural Networks [![](https://img.shields.io/badge/Slides-f47a60)](https://drive.google.com/file/d/11G7gn0-_sAsLTc5vKi6econZlCZdR0Kg/view?usp=sharing) <br/> ICLR oral track 2023 <br/> AI Time Youth Ph.D. Talk 2023
-+ Subspace Adversarial Training [![](https://img.shields.io/badge/Slides-f47a60)](https://drive.google.com/file/d/1NaF_bZkrPvfsScLfVcjPqcPVQ3CW8hoK/view?usp=sharing) <br/> CVPR oral track 2022
-+ Adversarial Attacks and Defenses [![](https://img.shields.io/badge/Slides-f47a60)](https://drive.google.com/file/d/1i6CIrdynqdidqgoTACkSmJEVQm7xRT0S/view?usp=sharing) <br/> Northeastern University Security Seminar 2022
++ **Prompt Injection Defense by Structured Queries and Secure Alignment** [![](https://img.shields.io/badge/Talk-316879)](https://docs.google.com/document/d/1pip5y_HGU4qjN0K6NEFuI379RPdL9T6o/edit?usp=sharing) [![](https://img.shields.io/badge/Slides-f47a60)](https://drive.google.com/file/d/1baUbgFMILhPWBeGrm67XXy_H-jO7raRa/view?usp=sharing) <br/> UC Berkeley Security Seminar 2024 <br/> Hong Kong Baptist University TMLR Young Scientist Seminar 2024 <br/> Shanghai Jiao Tong University PAMI Group Seminar 2024
++ **On the Learning Preference of Deep Neural Networks** [![](https://img.shields.io/badge/Slides-f47a60)](https://drive.google.com/file/d/11G7gn0-_sAsLTc5vKi6econZlCZdR0Kg/view?usp=sharing) <br/> ICLR Oral Track 2023 <br/> AI Time Youth Ph.D. Talk 2023
++ **Subspace Adversarial Training** [![](https://img.shields.io/badge/Slides-f47a60)](https://drive.google.com/file/d/1NaF_bZkrPvfsScLfVcjPqcPVQ3CW8hoK/view?usp=sharing) <br/> CVPR Oral Track 2022
++ **Adversarial Attacks and Defenses** [![](https://img.shields.io/badge/Slides-f47a60)](https://drive.google.com/file/d/1i6CIrdynqdidqgoTACkSmJEVQm7xRT0S/view?usp=sharing) <br/> Northeastern University Security Seminar 2022
 
 Selected Publications
 ------
@@ -44,8 +44,14 @@ Other Publications
 
 Services
 ------
-+ Reviewer: SaTML'25, CCS'24, ICML'24, NeurIPS'23, ICLR'23/24/25, CVPR'23/24/25, ICCV'23, ECCV'22/24, IEEE TPAMI, Machine Learning, Pattern Recognition
-+ UC Berkeley Student Reviewer: Computer Science Faculty Hiring Committee'24, Ph.D. Admission Committee'24, Equal Access to Application'24
++ **Reviewer**: SaTML'25, CCS'24, ICML'24, NeurIPS'23, ICLR'23/24/25, CVPR'23/24/25, ICCV'23, ECCV'22/24, IEEE TPAMI, Machine Learning, Pattern Recognition
++ **UC Berkeley Student Reviewer**: Computer Science Faculty Hiring Committee'24, Ph.D. Admission Committee'24, Equal Access to Application'24
+
+Awards
+------
++ Research Fundings: Meta-BAIR Commons 2024, Google-BAIR Commons 2024, UC Berkeley EECS Departmental Fellowship 2023, NeurIPS'22/ICLR'23 Travel Support
++ Degree Awards: SJTU Extraordinary Bachelor's Thesis (Top 1\%, Summa Cum Laude equivalent) 2020, SJTU Outstanding Graduate 2022/2023
++ Scholarship: China National Scholarship (Top 0.2\%) 2021/2022, Kwang-Hua Scholarship 2019, Arawana Scholarship 2017
 
 Misc
 ------
