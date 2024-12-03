@@ -57,7 +57,7 @@ Misc
 ------
 I practice neatness.
 + **Sports**: weightlifting, badminton, table tennis, skiing (beginner)
-+ **Music**: attend classic concerts (directed three 1K-spectator ones), [rearrange](https://mp.weixin.qq.com/s/E4ytAAMeRkbODAUqZpq92Q) pop songs (Gloria, aka G.E.M., always empowers me)
++ **Music**: attend classic concerts (directed three 1K-spectator ones), [rearrange](https://mp.weixin.qq.com/s/E4ytAAMeRkbODAUqZpq92Q) pop songs (G.E.M. always empowers me)
 + **Writing**: Chinese [blogs](http://xhslink.com/5JP3XI) about international Ph.D. life. Let me know if you want English ones!
 + **Games**: The Resistance: Avalon, Super Mario Odyssey, Dou Dizhu <br/>
 
