@@ -57,9 +57,9 @@ Misc
 ------
 + I practice neatness.
 + **Sports**: weightlifting, badminton, table tennis, skiing (beginner)
-+ **Music**: attend classic concerts (directed three 1K-spectator ones), [rearrange](https://mp.weixin.qq.com/s/E4ytAAMeRkbODAUqZpq92Q) pop songs (G.E.M. always empowers me)
-+ **Writing**: Chinese [blogs](http://xhslink.com/5JP3XI) about international Ph.D. life. Let me know if you want English ones!
-+ **Games**: The Resistance: Avalon, Super Mario Odyssey, Dou Dizhu <br/>
++ **Music**: attend classic concerts (directed three 1K-spectator ones), [rearrange pop songs](https://mp.weixin.qq.com/s/E4ytAAMeRkbODAUqZpq92Q) (G.E.M. always empowers me)
++ **Writing**: [Chinese blogs](http://xhslink.com/5JP3XI) about my deep thoughts. 
++ **Games**: Super Mario Odyssey, The Resistance: Avalon, Dou Dizhu <br/>
 
 ![](https://github.com/Sizhe-Chen/Sizhe-Chen.github.io/blob/master/images/piano.jpg?raw=true)
 
