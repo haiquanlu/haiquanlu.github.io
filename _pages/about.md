@@ -56,8 +56,9 @@ Awards
 Misc
 ------
 + **Sports**: lift weights, badminton, table tennis, ski (beginner)
-+ **Music**: attend classic concerts (directed 3 1K-spectator ones), [rearrangement](https://mp.weixin.qq.com/s/E4ytAAMeRkbODAUqZpq92Q) (beginner).
-+ **Writing**: Chinese [blogs](http://xhslink.com/5JP3XI) about international Ph.D. life. Let me know if you want English ones! <br/>
++ **Music**: attend classic concerts (directed three 1K-spectator ones), [rearrangement](https://mp.weixin.qq.com/s/E4ytAAMeRkbODAUqZpq92Q) (beginner). Gloria (G.E.M.) has empowered me lots of times.
++ **Writing**: Chinese [blogs](http://xhslink.com/5JP3XI) about international Ph.D. life. Let me know if you want English ones!
++ **Game**: The Resistance: Avalon, Super Mario Odyssey, Dou Dizhu <br/>
 
 ![](https://github.com/Sizhe-Chen/Sizhe-Chen.github.io/blob/master/images/piano.jpg?raw=true)
 
