@@ -55,8 +55,8 @@ Awards
 
 Misc
 ------
-+ **Sports**: lift weights, badminton, table tennis, ski (beginner)
-+ **Music**: attend classic concerts (directed three 1K-spectator ones), [rearrangement](https://mp.weixin.qq.com/s/E4ytAAMeRkbODAUqZpq92Q) (beginner). Gloria (G.E.M.) songs always empower me!
++ **Sports**: weightlifting, badminton, table tennis, skiing (beginner)
++ **Music**: attend classic concerts (directed three 1K-spectator ones), [rearrange](https://mp.weixin.qq.com/s/E4ytAAMeRkbODAUqZpq92Q) popular songs. Gloria (G.E.M.) always empowers me!
 + **Writing**: Chinese [blogs](http://xhslink.com/5JP3XI) about international Ph.D. life. Let me know if you want English ones!
 + **Games**: The Resistance: Avalon, Super Mario Odyssey, Dou Dizhu <br/>
 
