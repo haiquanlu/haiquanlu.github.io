@@ -55,8 +55,9 @@ Awards
 
 Misc
 ------
-+ I love to lift weights, play badminton, play table tennis, write blogs, and attend concerts.
-+ I directed three 1K-spectator concerts. <br/>
++ **Sports**: lift weights, badminton, table tennis, ski (beginner)
++ **Music**: classic concerts (directed 3 1K-spectator ones), rearrangement (beginner).
++ **Writing**: Chinese [blogs](http://xhslink.com/5JP3XI) about international CS Ph.D life. <br/>
 
 ![](https://github.com/Sizhe-Chen/Sizhe-Chen.github.io/blob/master/images/piano.jpg?raw=true)
 
